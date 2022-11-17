@@ -1,0 +1,61 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Grupo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sexo",
+                "Grupo_de_edad",
+                ""
+              ]
+            },
+            "title": "Grupo"
+          },
+          {
+            "name": "Clasificación",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                "Menores_de_18_años",
+                "De_18_años_o_más",
+                "Entre_12_y_29_años_de_edad",
+                "De_0_a_11_años_y_de_30_años_o_más",
+                "De_65_años_o_más",
+                "Menores_de_65_años",
+                ""
+              ]
+            },
+            "title": "Clasificación"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-1-2",
+  "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
+}

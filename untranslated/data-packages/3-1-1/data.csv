@@ -1,0 +1,991 @@
+Year,Entidad_federativa,GeoCode,Value
+2019,Estados Unidos Mexicanos,0,34.16066
+2019,Aguascalientes,1,12.15067
+2019,Baja California,2,32.58893
+2019,Baja California Sur,3,43.3526
+2019,Campeche,4,10.96611
+2019,Coahuila de Zaragoza,5,25.16308
+2019,Colima,6,29.77298
+2019,Chiapas,7,42.78075
+2019,Chihuahua,8,48.79969
+2019,Ciudad de México,9,36.11375
+2019,Durango,10,66.65334
+2019,Guanajuato,11,24.75554
+2019,Guerrero,12,56.43423
+2019,Hidalgo,13,24.76709
+2019,Jalisco,14,39.09946
+2019,México,15,35.41465
+2019,Michoacán de Ocampo,16,41.04942
+2019,Morelos,17,8.79688
+2019,Nayarit,18,39.29445
+2019,Nuevo León,19,25.20363
+2019,Oaxaca,20,39.56659
+2019,Puebla,21,27.81399
+2019,Querétaro,22,24.09897
+2019,Quintana Roo,23,46.12055
+2019,San Luis Potosí,24,31.51024
+2019,Sinaloa,25,29.2148
+2019,Sonora,26,25.8167
+2019,Tabasco,27,38.36808
+2019,Tamaulipas,28,23.72404
+2019,Tlaxcala,29,49.1752
+2019,Veracruz de Ignacio de la Llave,30,34.41625
+2019,Yucatán,31,21.62563
+2019,Zacatecas,32,29.20561
+2018,Estados Unidos Mexicanos,0,34.55469
+2018,Aguascalientes,1,23.62391
+2018,Baja California,2,33.66537
+2018,Baja California Sur,3,25.2419
+2018,Campeche,4,33.65681
+2018,Coahuila de Zaragoza,5,36.9324
+2018,Colima,6,14.81372
+2018,Chiapas,7,62.31426
+2018,Chihuahua,8,52.31311
+2018,Ciudad de México,9,34.49533
+2018,Durango,10,53.43559
+2018,Guanajuato,11,20.75419
+2018,Guerrero,12,33.10053
+2018,Hidalgo,13,26.68446
+2018,Jalisco,14,29.98501
+2018,México,15,32.41696
+2018,Michoacán de Ocampo,16,37.62958
+2018,Morelos,17,20.7894
+2018,Nayarit,18,57.73416
+2018,Nuevo León,19,32.12193
+2018,Oaxaca,20,51.43445
+2018,Puebla,21,30.33597
+2018,Querétaro,22,30.81822
+2018,Quintana Roo,23,44.13387
+2018,San Luis Potosí,24,15.20285
+2018,Sinaloa,25,43.87119
+2018,Sonora,26,22.44577
+2018,Tabasco,27,30.92367
+2018,Tamaulipas,28,29.85309
+2018,Tlaxcala,29,25.31646
+2018,Veracruz de Ignacio de la Llave,30,27.41729
+2018,Yucatán,31,52.64697
+2018,Zacatecas,32,31.21856
+2017,Estados Unidos Mexicanos,0,34.95725
+2017,Aguascalientes,1,22.10026
+2017,Baja California,2,41.29129
+2017,Baja California Sur,3,7.25321
+2017,Campeche,4,27.96108
+2017,Coahuila de Zaragoza,5,38.64259
+2017,Colima,6,7.34268
+2017,Chiapas,7,50.81185
+2017,Chihuahua,8,52.18611
+2017,Ciudad de México,9,35.34912
+2017,Durango,10,29.18345
+2017,Guanajuato,11,34.53128
+2017,Guerrero,12,61.34114
+2017,Hidalgo,13,33.61093
+2017,Jalisco,14,30.50706
+2017,México,15,34.01074
+2017,Michoacán de Ocampo,16,33.86234
+2017,Morelos,17,26.03319
+2017,Nayarit,18,34.44416
+2017,Nuevo León,19,27.12615
+2017,Oaxaca,20,53.94739
+2017,Puebla,21,28.87739
+2017,Querétaro,22,20.14657
+2017,Quintana Roo,23,31.40375
+2017,San Luis Potosí,24,35.90058
+2017,Sinaloa,25,16.16946
+2017,Sonora,26,32.90556
+2017,Tabasco,27,40.31716
+2017,Tamaulipas,28,38.90869
+2017,Tlaxcala,29,32.88257
+2017,Veracruz de Ignacio de la Llave,30,31.11947
+2017,Yucatán,31,14.52728
+2017,Zacatecas,32,29.34272
+2016,Estados Unidos Mexicanos,0,37.20037
+2016,Aguascalientes,1,18.50481
+2016,Baja California,2,28.83164
+2016,Baja California Sur,3,7.31743
+2016,Campeche,4,45.52957
+2016,Coahuila de Zaragoza,5,42.69709
+2016,Colima,6,36.71072
+2016,Chiapas,7,50.63291
+2016,Chihuahua,8,43.97681
+2016,Ciudad de México,9,28.32956
+2016,Durango,10,40.05837
+2016,Guanajuato,11,32.36756
+2016,Guerrero,12,53.75603
+2016,Hidalgo,13,43.10587
+2016,Jalisco,14,26.18802
+2016,México,15,45.21728
+2016,Michoacán de Ocampo,16,27.43641
+2016,Morelos,17,34.3879
+2016,Nayarit,18,34.42933
+2016,Nuevo León,19,35.32094
+2016,Oaxaca,20,51.56651
+2016,Puebla,21,41.62552
+2016,Querétaro,22,35.27603
+2016,Quintana Roo,23,35.28208
+2016,San Luis Potosí,24,27.34885
+2016,Sinaloa,25,42.96236
+2016,Sonora,26,42.04288
+2016,Tabasco,27,36.31625
+2016,Tamaulipas,28,32.52435
+2016,Tlaxcala,29,41.38388
+2016,Veracruz de Ignacio de la Llave,30,28.27294
+2016,Yucatán,31,31.70851
+2016,Zacatecas,32,22.83403
+2015,Estados Unidos Mexicanos,0,34.96753
+2015,Aguascalientes,1,25.82645
+2015,Baja California,2,32.02211
+2015,Baja California Sur,3,22.33306
+2015,Campeche,4,46.51974
+2015,Coahuila de Zaragoza,5,28.30314
+2015,Colima,6,22.37637
+2015,Chiapas,7,59.8472
+2015,Chihuahua,8,48.30218
+2015,Ciudad de México,9,44.33221
+2015,Durango,10,31.14383
+2015,Guanajuato,11,31.19449
+2015,Guerrero,12,48.62631
+2015,Hidalgo,13,33.20666
+2015,Jalisco,14,24.69017
+2015,México,15,33.58314
+2015,Michoacán de Ocampo,16,34.30456
+2015,Morelos,17,36.61327
+2015,Nayarit,18,63.81078
+2015,Nuevo León,19,23.50452
+2015,Oaxaca,20,53.33333
+2015,Puebla,21,32.30183
+2015,Querétaro,22,14.90424
+2015,Quintana Roo,23,20.7261
+2015,San Luis Potosí,24,32.72251
+2015,Sinaloa,25,24.38529
+2015,Sonora,26,33.51933
+2015,Tabasco,27,41.65344
+2015,Tamaulipas,28,29.09826
+2015,Tlaxcala,29,20.08435
+2015,Veracruz de Ignacio de la Llave,30,28.71873
+2015,Yucatán,31,35.29252
+2015,Zacatecas,32,32.55314
+2014,Estados Unidos Mexicanos,0,38.65963
+2014,Aguascalientes,1,22.05315
+2014,Baja California,2,28.21109
+2014,Baja California Sur,3,15.8705
+2014,Campeche,4,17.97591
+2014,Coahuila de Zaragoza,5,36.95616
+2014,Colima,6,29.66919
+2014,Chiapas,7,60.30229
+2014,Chihuahua,8,58.06509
+2014,Ciudad de México,9,41.86446
+2014,Durango,10,71.22101
+2014,Guanajuato,11,27.67256
+2014,Guerrero,12,57.28216
+2014,Hidalgo,13,67.14288
+2014,Jalisco,14,34.37903
+2014,México,15,33.90353
+2014,Michoacán de Ocampo,16,47.70475
+2014,Morelos,17,9.05305
+2014,Nayarit,18,25.66186
+2014,Nuevo León,19,17.56196
+2014,Oaxaca,20,50.77567
+2014,Puebla,21,37.63551
+2014,Querétaro,22,34.50741
+2014,Quintana Roo,23,27.79225
+2014,San Luis Potosí,24,26.00572
+2014,Sinaloa,25,33.56897
+2014,Sonora,26,34.71017
+2014,Tabasco,27,40.65619
+2014,Tamaulipas,28,25.88701
+2014,Tlaxcala,29,51.36513
+2014,Veracruz de Ignacio de la Llave,30,40.27854
+2014,Yucatán,31,46.78427
+2014,Zacatecas,32,30.53342
+2013,Estados Unidos Mexicanos,0,37.86181
+2013,Aguascalientes,1,25.73529
+2013,Baja California,2,39.70749
+2013,Baja California Sur,3,32.11046
+2013,Campeche,4,65.39834
+2013,Coahuila de Zaragoza,5,27.0065
+2013,Colima,6,22.81022
+2013,Chiapas,7,49.22588
+2013,Chihuahua,8,60.66884
+2013,Ciudad de México,9,41.92348
+2013,Durango,10,41.24165
+2013,Guanajuato,11,34.9159
+2013,Guerrero,12,57.70795
+2013,Hidalgo,13,40.18139
+2013,Jalisco,14,22.41251
+2013,México,15,36.07406
+2013,Michoacán de Ocampo,16,36.74425
+2013,Morelos,17,44.51699
+2013,Nayarit,18,33.74531
+2013,Nuevo León,19,14.77575
+2013,Oaxaca,20,52.69178
+2013,Puebla,21,31.84257
+2013,Querétaro,22,35.02627
+2013,Quintana Roo,23,46.17789
+2013,San Luis Potosí,24,32.39391
+2013,Sinaloa,25,26.69361
+2013,Sonora,26,40.98281
+2013,Tabasco,27,27.42356
+2013,Tamaulipas,28,38.2187
+2013,Tlaxcala,29,23.16334
+2013,Veracruz de Ignacio de la Llave,30,43.58693
+2013,Yucatán,31,56.54829
+2013,Zacatecas,32,44.15011
+2012,Estados Unidos Mexicanos,0,42.10368
+2012,Aguascalientes,1,47.65396
+2012,Baja California,2,30.96242
+2012,Baja California Sur,3,23.28289
+2012,Campeche,4,42.84752
+2012,Coahuila de Zaragoza,5,34.39322
+2012,Colima,6,23.57008
+2012,Chiapas,7,55.32278
+2012,Chihuahua,8,46.76312
+2012,Ciudad de México,9,40.14596
+2012,Durango,10,52.5152
+2012,Guanajuato,11,34.82327
+2012,Guerrero,12,73.43588
+2012,Hidalgo,13,38.68187
+2012,Jalisco,14,23.38847
+2012,México,15,42.68803
+2012,Michoacán de Ocampo,16,41.69533
+2012,Morelos,17,39.02029
+2012,Nayarit,18,42.23508
+2012,Nuevo León,19,24.82173
+2012,Oaxaca,20,68.30953
+2012,Puebla,21,50.64934
+2012,Querétaro,22,19.80149
+2012,Quintana Roo,23,50.3996
+2012,San Luis Potosí,24,43.88502
+2012,Sinaloa,25,41.49065
+2012,Sonora,26,34.72364
+2012,Tabasco,27,34.15987
+2012,Tamaulipas,28,25.96475
+2012,Tlaxcala,29,59.43978
+2012,Veracruz de Ignacio de la Llave,30,48.93
+2012,Yucatán,31,56.36025
+2012,Zacatecas,32,32.0482
+2011,Estados Unidos Mexicanos,0,42.90793
+2011,Aguascalientes,1,18.53019
+2011,Baja California,2,33.37572
+2011,Baja California Sur,3,31.6907
+2011,Campeche,4,63.13929
+2011,Coahuila de Zaragoza,5,39.49376
+2011,Colima,6,39.32982
+2011,Chiapas,7,48.25595
+2011,Chihuahua,8,66.75761
+2011,Ciudad de México,9,40.78214
+2011,Durango,10,35.92252
+2011,Guanajuato,11,34.9761
+2011,Guerrero,12,86.90614
+2011,Hidalgo,13,31.41135
+2011,Jalisco,14,23.40504
+2011,México,15,42.89294
+2011,Michoacán de Ocampo,16,57.88554
+2011,Morelos,17,40.00369
+2011,Nayarit,18,41.46281
+2011,Nuevo León,19,29.33412
+2011,Oaxaca,20,64.35503
+2011,Puebla,21,48.0973
+2011,Querétaro,22,40.16266
+2011,Quintana Roo,23,43.48553
+2011,San Luis Potosí,24,48.29654
+2011,Sinaloa,25,16.82212
+2011,Sonora,26,45.35334
+2011,Tabasco,27,41.38094
+2011,Tamaulipas,28,15.73119
+2011,Tlaxcala,29,27.29577
+2011,Veracruz de Ignacio de la Llave,30,54.13498
+2011,Yucatán,31,41.55536
+2011,Zacatecas,32,39.12746
+2010,Estados Unidos Mexicanos,0,43.69536
+2010,Aguascalientes,1,39.25109
+2010,Baja California,2,38.26348
+2010,Baja California Sur,3,32.34937
+2010,Campeche,4,47.18372
+2010,Coahuila de Zaragoza,5,40.67728
+2010,Colima,6,0.0
+2010,Chiapas,7,57.0578
+2010,Chihuahua,8,56.04576
+2010,Ciudad de México,9,59.91187
+2010,Durango,10,42.42921
+2010,Guanajuato,11,34.61434
+2010,Guerrero,12,67.19748
+2010,Hidalgo,13,53.25205
+2010,Jalisco,14,29.73443
+2010,México,15,40.54363
+2010,Michoacán de Ocampo,16,53.25798
+2010,Morelos,17,30.01561
+2010,Nayarit,18,33.45041
+2010,Nuevo León,19,15.71092
+2010,Oaxaca,20,75.11522
+2010,Puebla,21,46.19416
+2010,Querétaro,22,35.05366
+2010,Quintana Roo,23,45.3404
+2010,San Luis Potosí,24,40.963
+2010,Sinaloa,25,34.06446
+2010,Sonora,26,23.02954
+2010,Tabasco,27,30.94812
+2010,Tamaulipas,28,40.06287
+2010,Tlaxcala,29,57.32302
+2010,Veracruz de Ignacio de la Llave,30,52.74761
+2010,Yucatán,31,33.30835
+2010,Zacatecas,32,35.95721
+2009,Estados Unidos Mexicanos,0,53.17143
+2009,Aguascalientes,1,51.07854
+2009,Baja California,2,48.19277
+2009,Baja California Sur,3,41.41473
+2009,Campeche,4,47.17537
+2009,Coahuila de Zaragoza,5,25.75284
+2009,Colima,6,23.80386
+2009,Chiapas,7,59.25951
+2009,Chihuahua,8,79.269
+2009,Ciudad de México,9,56.29134
+2009,Durango,10,36.70761
+2009,Guanajuato,11,49.68574
+2009,Guerrero,12,86.07268
+2009,Hidalgo,13,54.96821
+2009,Jalisco,14,50.35935
+2009,México,15,56.65432
+2009,Michoacán de Ocampo,16,44.18199
+2009,Morelos,17,68.85815
+2009,Nayarit,18,50.92298
+2009,Nuevo León,19,28.44303
+2009,Oaxaca,20,83.27445
+2009,Puebla,21,61.21536
+2009,Querétaro,22,32.40966
+2009,Quintana Roo,23,35.12099
+2009,San Luis Potosí,24,51.47248
+2009,Sinaloa,25,33.97252
+2009,Sonora,26,40.57344
+2009,Tabasco,27,50.69541
+2009,Tamaulipas,28,37.09141
+2009,Tlaxcala,29,44.76822
+2009,Veracruz de Ignacio de la Llave,30,62.70438
+2009,Yucatán,31,41.16921
+2009,Zacatecas,32,50.95771
+2008,Estados Unidos Mexicanos,0,49.29455
+2008,Aguascalientes,1,35.41355
+2008,Baja California,2,38.92313
+2008,Baja California Sur,3,42.94426
+2008,Campeche,4,41.21283
+2008,Coahuila de Zaragoza,5,33.03601
+2008,Colima,6,32.11819
+2008,Chiapas,7,77.74998
+2008,Chihuahua,8,54.73296
+2008,Ciudad de México,9,53.10429
+2008,Durango,10,64.77414
+2008,Guanajuato,11,32.54991
+2008,Guerrero,12,78.48598
+2008,Hidalgo,13,51.41766
+2008,Jalisco,14,32.4323
+2008,México,15,52.55435
+2008,Michoacán de Ocampo,16,47.10568
+2008,Morelos,17,44.82697
+2008,Nayarit,18,38.89201
+2008,Nuevo León,19,26.47726
+2008,Oaxaca,20,83.92519
+2008,Puebla,21,47.9594
+2008,Querétaro,22,43.41573
+2008,Quintana Roo,23,60.61903
+2008,San Luis Potosí,24,30.85803
+2008,Sinaloa,25,33.75844
+2008,Sonora,26,27.20718
+2008,Tabasco,27,61.72295
+2008,Tamaulipas,28,51.13108
+2008,Tlaxcala,29,24.25614
+2008,Veracruz de Ignacio de la Llave,30,65.8151
+2008,Yucatán,31,40.67245
+2008,Zacatecas,32,35.97338
+2007,Estados Unidos Mexicanos,0,48.3354
+2007,Aguascalientes,1,15.77163
+2007,Baja California,2,36.01598
+2007,Baja California Sur,3,71.32668
+2007,Campeche,4,17.63668
+2007,Coahuila de Zaragoza,5,22.88491
+2007,Colima,6,16.25356
+2007,Chiapas,7,66.74653
+2007,Chihuahua,8,66.20515
+2007,Ciudad de México,9,67.44928
+2007,Durango,10,39.34131
+2007,Guanajuato,11,33.65785
+2007,Guerrero,12,81.06088
+2007,Hidalgo,13,55.23234
+2007,Jalisco,14,28.78778
+2007,México,15,49.14022
+2007,Michoacán de Ocampo,16,41.511
+2007,Morelos,17,44.76276
+2007,Nayarit,18,22.00317
+2007,Nuevo León,19,19.79645
+2007,Oaxaca,20,87.10043
+2007,Puebla,21,44.26906
+2007,Querétaro,22,46.3708
+2007,Quintana Roo,23,50.74854
+2007,San Luis Potosí,24,53.81938
+2007,Sinaloa,25,46.59745
+2007,Sonora,26,39.09686
+2007,Tabasco,27,50.73007
+2007,Tamaulipas,28,38.82651
+2007,Tlaxcala,29,28.12374
+2007,Veracruz de Ignacio de la Llave,30,66.23757
+2007,Yucatán,31,53.6193
+2007,Zacatecas,32,29.9958
+2006,Estados Unidos Mexicanos,0,51.30676
+2006,Aguascalientes,1,47.34475
+2006,Baja California,2,37.93877
+2006,Baja California Sur,3,36.97883
+2006,Campeche,4,58.62352
+2006,Coahuila de Zaragoza,5,24.90306
+2006,Colima,6,49.27322
+2006,Chiapas,7,70.92935
+2006,Chihuahua,8,61.72396
+2006,Ciudad de México,9,58.13044
+2006,Durango,10,72.78835
+2006,Guanajuato,11,36.42586
+2006,Guerrero,12,106.30086
+2006,Hidalgo,13,47.93245
+2006,Jalisco,14,48.2801
+2006,México,15,50.75762
+2006,Michoacán de Ocampo,16,56.02596
+2006,Morelos,17,50.58922
+2006,Nayarit,18,31.3115
+2006,Nuevo León,19,28.21339
+2006,Oaxaca,20,66.66502
+2006,Puebla,21,47.41263
+2006,Querétaro,22,54.77801
+2006,Quintana Roo,23,47.87332
+2006,San Luis Potosí,24,33.65572
+2006,Sinaloa,25,36.99251
+2006,Sonora,26,49.07349
+2006,Tabasco,27,46.27385
+2006,Tamaulipas,28,54.38245
+2006,Tlaxcala,29,55.83696
+2006,Veracruz de Ignacio de la Llave,30,52.57589
+2006,Yucatán,31,26.48095
+2006,Zacatecas,32,41.95008
+2005,Estados Unidos Mexicanos,0,54.45377
+2005,Aguascalientes,1,27.64067
+2005,Baja California,2,46.62238
+2005,Baja California Sur,3,28.52524
+2005,Campeche,4,64.44431
+2005,Coahuila de Zaragoza,5,43.03157
+2005,Colima,6,8.23113
+2005,Chiapas,7,71.51579
+2005,Chihuahua,8,81.57891
+2005,Ciudad de México,9,58.65963
+2005,Durango,10,38.93106
+2005,Guanajuato,11,35.61797
+2005,Guerrero,12,106.81076
+2005,Hidalgo,13,67.92106
+2005,Jalisco,14,32.60474
+2005,México,15,66.93304
+2005,Michoacán de Ocampo,16,47.95263
+2005,Morelos,17,67.88065
+2005,Nayarit,18,81.05187
+2005,Nuevo León,19,23.6678
+2005,Oaxaca,20,85.44818
+2005,Puebla,21,54.95036
+2005,Querétaro,22,41.22465
+2005,Quintana Roo,23,48.69279
+2005,San Luis Potosí,24,43.704
+2005,Sinaloa,25,42.08985
+2005,Sonora,26,37.29952
+2005,Tabasco,27,46.02941
+2005,Tamaulipas,28,48.22501
+2005,Tlaxcala,29,55.59527
+2005,Veracruz de Ignacio de la Llave,30,54.1172
+2005,Yucatán,31,49.85306
+2005,Zacatecas,32,23.81945
+2004,Estados Unidos Mexicanos,0,54.09547
+2004,Aguascalientes,1,19.79571
+2004,Baja California,2,55.67741
+2004,Baja California Sur,3,38.83118
+2004,Campeche,4,41.15952
+2004,Coahuila de Zaragoza,5,27.08804
+2004,Colima,6,32.77882
+2004,Chiapas,7,84.35037
+2004,Chihuahua,8,48.57976
+2004,Ciudad de México,9,62.89763
+2004,Durango,10,66.19594
+2004,Guanajuato,11,44.81802
+2004,Guerrero,12,85.70896
+2004,Hidalgo,13,61.90147
+2004,Jalisco,14,41.37879
+2004,México,15,67.15347
+2004,Michoacán de Ocampo,16,39.8773
+2004,Morelos,17,40.82109
+2004,Nayarit,18,44.97616
+2004,Nuevo León,19,14.27976
+2004,Oaxaca,20,77.1233
+2004,Puebla,21,63.89823
+2004,Querétaro,22,49.68533
+2004,Quintana Roo,23,42.02644
+2004,San Luis Potosí,24,55.26484
+2004,Sinaloa,25,32.55503
+2004,Sonora,26,35.25679
+2004,Tabasco,27,45.66111
+2004,Tamaulipas,28,40.59455
+2004,Tlaxcala,29,47.66066
+2004,Veracruz de Ignacio de la Llave,30,65.35606
+2004,Yucatán,31,44.41541
+2004,Zacatecas,32,26.53537
+2003,Estados Unidos Mexicanos,0,57.19351
+2003,Aguascalientes,1,47.73839
+2003,Baja California,2,37.68091
+2003,Baja California Sur,3,89.3655
+2003,Campeche,4,53.2135
+2003,Coahuila de Zaragoza,5,38.25346
+2003,Colima,6,24.52182
+2003,Chiapas,7,93.9983
+2003,Chihuahua,8,47.14488
+2003,Ciudad de México,9,70.69813
+2003,Durango,10,52.08476
+2003,Guanajuato,11,52.37946
+2003,Guerrero,12,104.57034
+2003,Hidalgo,13,57.89655
+2003,Jalisco,14,35.17257
+2003,México,15,71.22193
+2003,Michoacán de Ocampo,16,47.249
+2003,Morelos,17,80.81041
+2003,Nayarit,18,67.49156
+2003,Nuevo León,19,11.98322
+2003,Oaxaca,20,59.60968
+2003,Puebla,21,64.81589
+2003,Querétaro,22,47.23797
+2003,Quintana Roo,23,54.72812
+2003,San Luis Potosí,24,64.99504
+2003,Sinaloa,25,19.69879
+2003,Sonora,26,35.23884
+2003,Tabasco,27,47.53879
+2003,Tamaulipas,28,34.52605
+2003,Tlaxcala,29,63.70695
+2003,Veracruz de Ignacio de la Llave,30,60.95189
+2003,Yucatán,31,54.76594
+2003,Zacatecas,32,64.34818
+2002,Estados Unidos Mexicanos,0,56.85229
+2002,Aguascalientes,1,23.9789
+2002,Baja California,2,29.53953
+2002,Baja California Sur,3,60.90134
+2002,Campeche,4,65.36725
+2002,Coahuila de Zaragoza,5,42.2181
+2002,Colima,6,16.29461
+2002,Chiapas,7,84.06969
+2002,Chihuahua,8,71.35823
+2002,Ciudad de México,9,54.2804
+2002,Durango,10,38.12532
+2002,Guanajuato,11,48.92533
+2002,Guerrero,12,93.77093
+2002,Hidalgo,13,55.71131
+2002,Jalisco,14,31.44357
+2002,México,15,65.06931
+2002,Michoacán de Ocampo,16,38.53907
+2002,Morelos,17,71.38778
+2002,Nayarit,18,71.94245
+2002,Nuevo León,19,26.52264
+2002,Oaxaca,20,94.3196
+2002,Puebla,21,63.54662
+2002,Querétaro,22,53.13199
+2002,Quintana Roo,23,48.03074
+2002,San Luis Potosí,24,71.1346
+2002,Sinaloa,25,33.67003
+2002,Sonora,26,44.97282
+2002,Tabasco,27,32.19575
+2002,Tamaulipas,28,36.24901
+2002,Tlaxcala,29,75.81501
+2002,Veracruz de Ignacio de la Llave,30,72.64966
+2002,Yucatán,31,75.47759
+2002,Zacatecas,32,46.40775
+2001,Estados Unidos Mexicanos,0,69.95604
+2001,Aguascalientes,1,60.14435
+2001,Baja California,2,40.49011
+2001,Baja California Sur,3,20.72109
+2001,Campeche,4,23.84643
+2001,Coahuila de Zaragoza,5,49.84309
+2001,Colima,6,8.1057
+2001,Chiapas,7,102.65091
+2001,Chihuahua,8,76.84536
+2001,Ciudad de México,9,76.42339
+2001,Durango,10,48.61449
+2001,Guanajuato,11,46.25386
+2001,Guerrero,12,122.7688
+2001,Hidalgo,13,53.47212
+2001,Jalisco,14,44.01325
+2001,México,15,103.11718
+2001,Michoacán de Ocampo,16,58.21738
+2001,Morelos,17,78.98894
+2001,Nayarit,18,58.30904
+2001,Nuevo León,19,26.63051
+2001,Oaxaca,20,91.98132
+2001,Puebla,21,91.55675
+2001,Querétaro,22,70.27012
+2001,Quintana Roo,23,73.74329
+2001,San Luis Potosí,24,92.13965
+2001,Sinaloa,25,28.01562
+2001,Sonora,26,54.59154
+2001,Tabasco,27,19.1575
+2001,Tamaulipas,28,60.02875
+2001,Tlaxcala,29,87.85942
+2001,Veracruz de Ignacio de la Llave,30,67.45921
+2001,Yucatán,31,59.6829
+2001,Zacatecas,32,51.69591
+2000,Estados Unidos Mexicanos,0,75.40832
+2000,Aguascalientes,1,72.48128
+2000,Baja California,2,53.5437
+2000,Baja California Sur,3,21.16402
+2000,Campeche,4,53.87286
+2000,Coahuila de Zaragoza,5,44.56245
+2000,Colima,6,56.47438
+2000,Chiapas,7,80.71391
+2000,Chihuahua,8,66.70925
+2000,Ciudad de México,9,87.69646
+2000,Durango,10,48.24702
+2000,Guanajuato,11,66.28295
+2000,Guerrero,12,121.41123
+2000,Hidalgo,13,56.6011
+2000,Jalisco,14,54.10643
+2000,México,15,97.86321
+2000,Michoacán de Ocampo,16,58.17724
+2000,Morelos,17,64.15621
+2000,Nayarit,18,67.1231
+2000,Nuevo León,19,54.70992
+2000,Oaxaca,20,113.9057
+2000,Puebla,21,73.75939
+2000,Querétaro,22,107.47214
+2000,Quintana Roo,23,96.63866
+2000,San Luis Potosí,24,74.64543
+2000,Sinaloa,25,58.85611
+2000,Sonora,26,42.78657
+2000,Tabasco,27,52.79608
+2000,Tamaulipas,28,68.10263
+2000,Tlaxcala,29,67.99456
+2000,Veracruz de Ignacio de la Llave,30,88.23455
+2000,Yucatán,31,82.8715
+2000,Zacatecas,32,68.30601
+1999,Estados Unidos Mexicanos,0,81.62345
+1999,Aguascalientes,1,84.75602
+1999,Baja California,2,41.65459
+1999,Baja California Sur,3,42.96917
+1999,Campeche,4,53.88899
+1999,Coahuila de Zaragoza,5,42.75172
+1999,Colima,6,32.23207
+1999,Chiapas,7,111.29356
+1999,Chihuahua,8,72.23898
+1999,Ciudad de México,9,112.25759
+1999,Durango,10,55.54233
+1999,Guanajuato,11,71.13566
+1999,Guerrero,12,127.22796
+1999,Hidalgo,13,89.50195
+1999,Jalisco,14,50.23895
+1999,México,15,110.20625
+1999,Michoacán de Ocampo,16,70.37364
+1999,Morelos,17,63.52012
+1999,Nayarit,18,71.17438
+1999,Nuevo León,19,47.50999
+1999,Oaxaca,20,97.98671
+1999,Puebla,21,72.61755
+1999,Querétaro,22,71.20681
+1999,Quintana Roo,23,73.35174
+1999,San Luis Potosí,24,77.05802
+1999,Sinaloa,25,52.99055
+1999,Sonora,26,48.35683
+1999,Tabasco,27,92.41174
+1999,Tamaulipas,28,77.71487
+1999,Tlaxcala,29,104.04162
+1999,Veracruz de Ignacio de la Llave,30,101.34421
+1999,Yucatán,31,51.52913
+1999,Zacatecas,32,56.32058
+1998,Estados Unidos Mexicanos,0,79.83539
+1998,Aguascalientes,1,36.30496
+1998,Baja California,2,47.77129
+1998,Baja California Sur,3,75.76578
+1998,Campeche,4,59.62674
+1998,Coahuila de Zaragoza,5,75.84587
+1998,Colima,6,32.26847
+1998,Chiapas,7,102.5425
+1998,Chihuahua,8,46.624
+1998,Ciudad de México,9,109.47517
+1998,Durango,10,46.66114
+1998,Guanajuato,11,67.52138
+1998,Guerrero,12,144.54068
+1998,Hidalgo,13,60.86745
+1998,Jalisco,14,45.59109
+1998,México,15,114.42697
+1998,Michoacán de Ocampo,16,77.53154
+1998,Morelos,17,101.19797
+1998,Nayarit,18,74.81077
+1998,Nuevo León,19,45.01052
+1998,Oaxaca,20,99.40246
+1998,Puebla,21,79.31828
+1998,Querétaro,22,83.17797
+1998,Quintana Roo,23,66.49526
+1998,San Luis Potosí,24,54.93351
+1998,Sinaloa,25,42.10739
+1998,Sonora,26,40.23066
+1998,Tabasco,27,79.48128
+1998,Tamaulipas,28,72.90131
+1998,Tlaxcala,29,95.8543
+1998,Veracruz de Ignacio de la Llave,30,86.6805
+1998,Yucatán,31,68.91447
+1998,Zacatecas,32,55.57717
+1997,Estados Unidos Mexicanos,0,79.33091
+1997,Aguascalientes,1,48.37929
+1997,Baja California,2,31.6969
+1997,Baja California Sur,3,76.32755
+1997,Campeche,4,71.2716
+1997,Coahuila de Zaragoza,5,33.12599
+1997,Colima,6,80.73632
+1997,Chiapas,7,107.49231
+1997,Chihuahua,8,88.75615
+1997,Ciudad de México,9,93.35277
+1997,Durango,10,55.90425
+1997,Guanajuato,11,58.95345
+1997,Guerrero,12,110.73048
+1997,Hidalgo,13,68.93224
+1997,Jalisco,14,63.35364
+1997,México,15,104.69169
+1997,Michoacán de Ocampo,16,70.83246
+1997,Morelos,17,83.97898
+1997,Nayarit,18,87.03599
+1997,Nuevo León,19,41.2897
+1997,Oaxaca,20,139.99798
+1997,Puebla,21,69.21383
+1997,Querétaro,22,75.14017
+1997,Quintana Roo,23,45.6246
+1997,San Luis Potosí,24,70.06704
+1997,Sinaloa,25,46.46609
+1997,Sonora,26,55.0128
+1997,Tabasco,27,89.56094
+1997,Tamaulipas,28,56.98998
+1997,Tlaxcala,29,139.56456
+1997,Veracruz de Ignacio de la Llave,30,76.70504
+1997,Yucatán,31,88.51796
+1997,Zacatecas,32,90.48781
+1996,Estados Unidos Mexicanos,0,81.4795
+1996,Aguascalientes,1,40.3047
+1996,Baja California,2,30.27894
+1996,Baja California Sur,3,10.98418
+1996,Campeche,4,94.64096
+1996,Coahuila de Zaragoza,5,51.24545
+1996,Colima,6,72.70965
+1996,Chiapas,7,94.03175
+1996,Chihuahua,8,82.85586
+1996,Ciudad de México,9,101.05862
+1996,Durango,10,39.86049
+1996,Guanajuato,11,64.5172
+1996,Guerrero,12,158.66312
+1996,Hidalgo,13,73.42896
+1996,Jalisco,14,38.92132
+1996,México,15,110.62705
+1996,Michoacán de Ocampo,16,56.30278
+1996,Morelos,17,128.78991
+1996,Nayarit,18,17.2117
+1996,Nuevo León,19,25.45269
+1996,Oaxaca,20,161.04848
+1996,Puebla,21,104.50194
+1996,Querétaro,22,49.51793
+1996,Quintana Roo,23,51.75009
+1996,San Luis Potosí,24,70.6503
+1996,Sinaloa,25,31.06453
+1996,Sonora,26,63.85576
+1996,Tabasco,27,45.62895
+1996,Tamaulipas,28,41.09892
+1996,Tlaxcala,29,103.52791
+1996,Veracruz de Ignacio de la Llave,30,108.25058
+1996,Yucatán,31,87.74569
+1996,Zacatecas,32,59.53992
+1995,Estados Unidos Mexicanos,0,82.1554
+1995,Aguascalientes,1,56.50174
+1995,Baja California,2,24.91233
+1995,Baja California Sur,3,33.05057
+1995,Campeche,4,135.71724
+1995,Coahuila de Zaragoza,5,41.86842
+1995,Colima,6,40.31608
+1995,Chiapas,7,118.52042
+1995,Chihuahua,8,47.5325
+1995,Ciudad de México,9,86.472
+1995,Durango,10,46.48545
+1995,Guanajuato,11,73.28239
+1995,Guerrero,12,102.69721
+1995,Hidalgo,13,98.05082
+1995,Jalisco,14,43.71814
+1995,México,15,104.54388
+1995,Michoacán de Ocampo,16,80.1395
+1995,Morelos,17,98.87761
+1995,Nayarit,18,106.55528
+1995,Nuevo León,19,23.03282
+1995,Oaxaca,20,143.40135
+1995,Puebla,21,137.54398
+1995,Querétaro,22,87.82973
+1995,Quintana Roo,23,67.68844
+1995,San Luis Potosí,24,77.36226
+1995,Sinaloa,25,20.97789
+1995,Sonora,26,46.42267
+1995,Tabasco,27,39.24404
+1995,Tamaulipas,28,25.19645
+1995,Tlaxcala,29,155.11276
+1995,Veracruz de Ignacio de la Llave,30,105.15247
+1995,Yucatán,31,91.88894
+1995,Zacatecas,32,58.82196
+1994,Estados Unidos Mexicanos,0,83.86292
+1994,Aguascalientes,1,49.0096
+1994,Baja California,2,23.05387
+1994,Baja California Sur,3,0.0
+1994,Campeche,4,111.03319
+1994,Coahuila de Zaragoza,5,45.30627
+1994,Colima,6,32.62643
+1994,Chiapas,7,121.06319
+1994,Chihuahua,8,53.0023
+1994,Ciudad de México,9,106.39124
+1994,Durango,10,55.00419
+1994,Guanajuato,11,70.17887
+1994,Guerrero,12,153.43607
+1994,Hidalgo,13,94.29757
+1994,Jalisco,14,36.16397
+1994,México,15,112.70245
+1994,Michoacán de Ocampo,16,56.96874
+1994,Morelos,17,93.96159
+1994,Nayarit,18,42.17274
+1994,Nuevo León,19,24.94263
+1994,Oaxaca,20,157.82394
+1994,Puebla,21,106.6844
+1994,Querétaro,22,117.74166
+1994,Quintana Roo,23,59.66587
+1994,San Luis Potosí,24,72.36224
+1994,Sinaloa,25,24.55153
+1994,Sonora,26,62.80092
+1994,Tabasco,27,68.51448
+1994,Tamaulipas,28,28.64144
+1994,Tlaxcala,29,84.47645
+1994,Veracruz de Ignacio de la Llave,30,109.62521
+1994,Yucatán,31,90.30117
+1994,Zacatecas,32,65.33044
+1993,Estados Unidos Mexicanos,0,85.17373
+1993,Aguascalientes,1,20.74517
+1993,Baja California,2,30.93043
+1993,Baja California Sur,3,55.24251
+1993,Campeche,4,98.8832
+1993,Coahuila de Zaragoza,5,47.07842
+1993,Colima,6,107.61589
+1993,Chiapas,7,132.96211
+1993,Chihuahua,8,62.86145
+1993,Ciudad de México,9,110.78569
+1993,Durango,10,35.21044
+1993,Guanajuato,11,65.78894
+1993,Guerrero,12,108.21062
+1993,Hidalgo,13,95.92912
+1993,Jalisco,14,48.02875
+1993,México,15,96.63235
+1993,Michoacán de Ocampo,16,70.54644
+1993,Morelos,17,100.34116
+1993,Nayarit,18,33.52049
+1993,Nuevo León,19,29.60903
+1993,Oaxaca,20,155.59311
+1993,Puebla,21,105.21328
+1993,Querétaro,22,121.90282
+1993,Quintana Roo,23,102.74324
+1993,San Luis Potosí,24,101.46509
+1993,Sinaloa,25,33.31113
+1993,Sonora,26,64.38773
+1993,Tabasco,27,50.27652
+1993,Tamaulipas,28,30.64516
+1993,Tlaxcala,29,81.68934
+1993,Veracruz de Ignacio de la Llave,30,120.73563
+1993,Yucatán,31,108.45464
+1993,Zacatecas,32,66.72141
+1992,Estados Unidos Mexicanos,0,86.41474
+1992,Aguascalientes,1,50.6607
+1992,Baja California,2,23.38042
+1992,Baja California Sur,3,33.31113
+1992,Campeche,4,92.81819
+1992,Coahuila de Zaragoza,5,21.73913
+1992,Colima,6,42.05568
+1992,Chiapas,7,144.86097
+1992,Chihuahua,8,61.64969
+1992,Ciudad de México,9,107.70279
+1992,Durango,10,27.70211
+1992,Guanajuato,11,98.81823
+1992,Guerrero,12,92.36796
+1992,Hidalgo,13,138.52137
+1992,Jalisco,14,47.37147
+1992,México,15,95.07454
+1992,Michoacán de Ocampo,16,83.05787
+1992,Morelos,17,104.21009
+1992,Nayarit,18,50.05423
+1992,Nuevo León,19,26.60919
+1992,Oaxaca,20,139.73079
+1992,Puebla,21,108.76201
+1992,Querétaro,22,87.08354
+1992,Quintana Roo,23,90.46884
+1992,San Luis Potosí,24,124.51003
+1992,Sinaloa,25,37.32546
+1992,Sonora,26,82.08044
+1992,Tabasco,27,29.63904
+1992,Tamaulipas,28,21.27277
+1992,Tlaxcala,29,120.42689
+1992,Veracruz de Ignacio de la Llave,30,121.67048
+1992,Yucatán,31,83.52225
+1992,Zacatecas,32,53.04504
+1991,Estados Unidos Mexicanos,0,87.17008
+1991,Aguascalientes,1,51.59515
+1991,Baja California,2,55.04443
+1991,Baja California Sur,3,0.0
+1991,Campeche,4,52.18904
+1991,Coahuila de Zaragoza,5,27.20842
+1991,Colima,6,128.25994
+1991,Chiapas,7,144.48969
+1991,Chihuahua,8,42.20478
+1991,Ciudad de México,9,115.7614
+1991,Durango,10,25.00568
+1991,Guanajuato,11,74.41138
+1991,Guerrero,12,87.78265
+1991,Hidalgo,13,108.54228
+1991,Jalisco,14,37.56292
+1991,México,15,118.3799
+1991,Michoacán de Ocampo,16,51.43009
+1991,Morelos,17,55.68962
+1991,Nayarit,18,37.41893
+1991,Nuevo León,19,35.77227
+1991,Oaxaca,20,200.5249
+1991,Puebla,21,118.80012
+1991,Querétaro,22,69.79926
+1991,Quintana Roo,23,60.76005
+1991,San Luis Potosí,24,79.98277
+1991,Sinaloa,25,51.8735
+1991,Sonora,26,59.58496
+1991,Tabasco,27,53.5458
+1991,Tamaulipas,28,38.19837
+1991,Tlaxcala,29,97.18173
+1991,Veracruz de Ignacio de la Llave,30,108.4314
+1991,Yucatán,31,101.79442
+1991,Zacatecas,32,82.19792
+1990,Estados Unidos Mexicanos,0,89.25345
+1990,Aguascalientes,1,26.29273
+1990,Baja California,2,47.65876
+1990,Baja California Sur,3,33.72681
+1990,Campeche,4,58.03157
+1990,Coahuila de Zaragoza,5,12.72218
+1990,Colima,6,52.16938
+1990,Chiapas,7,120.84224
+1990,Chihuahua,8,89.07112
+1990,Ciudad de México,9,111.23471
+1990,Durango,10,67.23442
+1990,Guanajuato,11,101.87334
+1990,Guerrero,12,99.94115
+1990,Hidalgo,13,134.55973
+1990,Jalisco,14,50.90922
+1990,México,15,109.47144
+1990,Michoacán de Ocampo,16,45.99778
+1990,Morelos,17,109.33882
+1990,Nayarit,18,53.92848
+1990,Nuevo León,19,45.55549
+1990,Oaxaca,20,166.61049
+1990,Puebla,21,121.93818
+1990,Querétaro,22,80.67433
+1990,Quintana Roo,23,34.48276
+1990,San Luis Potosí,24,90.86989
+1990,Sinaloa,25,28.20974
+1990,Sonora,26,46.39784
+1990,Tabasco,27,49.89262
+1990,Tamaulipas,28,33.72283
+1990,Tlaxcala,29,137.69956
+1990,Veracruz de Ignacio de la Llave,30,131.2336
+1990,Yucatán,31,68.21603
+1990,Zacatecas,32,51.65543

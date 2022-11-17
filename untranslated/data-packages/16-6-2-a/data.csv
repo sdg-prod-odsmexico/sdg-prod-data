@@ -1,0 +1,496 @@
+Year,Entidad_federativa,Sexo,GeoCode,Value
+2021,Estados Unidos Mexicanos,Total,0,62.61441471
+2019,Estados Unidos Mexicanos,Total,0,60.33248111
+2017,Estados Unidos Mexicanos,Total,0,66.40743621
+2015,Estados Unidos Mexicanos,Total,0,68.28294711
+2013,Estados Unidos Mexicanos,Total,0,71.39652943
+2021,Estados Unidos Mexicanos,Mujeres,0,61.55190411
+2019,Estados Unidos Mexicanos,Mujeres,0,61.18979111
+2017,Estados Unidos Mexicanos,Mujeres,0,67.00311652
+2015,Estados Unidos Mexicanos,Mujeres,0,68.0851845
+2013,Estados Unidos Mexicanos,Mujeres,0,71.14969735
+2021,Estados Unidos Mexicanos,Hombres,0,62.00299885
+2019,Estados Unidos Mexicanos,Hombres,0,61.01191074
+2017,Estados Unidos Mexicanos,Hombres,0,66.74826646
+2015,Estados Unidos Mexicanos,Hombres,0,68.17105598
+2013,Estados Unidos Mexicanos,Hombres,0,71.25527004
+2021,Aguascalientes,Total,1,70.69371526
+2019,Aguascalientes,Total,1,73.45345895
+2017,Aguascalientes,Total,1,68.26324082
+2015,Aguascalientes,Total,1,74.5541855
+2013,Aguascalientes,Total,1,71.28009015
+2021,Aguascalientes,Mujeres,1,66.72035086
+2019,Aguascalientes,Mujeres,1,66.71997917
+2017,Aguascalientes,Mujeres,1,67.84432907
+2015,Aguascalientes,Mujeres,1,76.49806512
+2013,Aguascalientes,Mujeres,1,76.06407908
+2021,Aguascalientes,Hombres,1,68.41669379
+2019,Aguascalientes,Hombres,1,67.85773162
+2017,Aguascalientes,Hombres,1,68.01632125
+2015,Aguascalientes,Hombres,1,75.6367139
+2013,Aguascalientes,Hombres,1,74.07643534
+2021,Baja California,Total,2,70.37756378
+2019,Baja California,Total,2,74.28596634
+2017,Baja California,Total,2,75.39276864
+2015,Baja California,Total,2,68.27026452
+2013,Baja California,Total,2,55.21143617
+2021,Baja California,Mujeres,2,75.6364499
+2019,Baja California,Mujeres,2,66.55424174
+2017,Baja California,Mujeres,2,78.10842497
+2015,Baja California,Mujeres,2,71.89723091
+2013,Baja California,Mujeres,2,57.33790552
+2021,Baja California,Hombres,2,73.25129371
+2019,Baja California,Hombres,2,67.77768471
+2017,Baja California,Hombres,2,76.88448683
+2015,Baja California,Hombres,2,70.34005375
+2013,Baja California,Hombres,2,56.26523265
+2021,Baja California_Sur,Total,3,70.54220851
+2019,Baja California_Sur,Total,3,75.61566638
+2017,Baja California_Sur,Total,3,80.01580715
+2015,Baja California_Sur,Total,3,84.84567185
+2013,Baja California_Sur,Total,3,72.17626203
+2021,Baja California_Sur,Mujeres,3,78.05043468
+2019,Baja California_Sur,Mujeres,3,71.29726839
+2017,Baja California_Sur,Mujeres,3,77.59785864
+2015,Baja California_Sur,Mujeres,3,83.73001214
+2013,Baja California_Sur,Mujeres,3,74.33907668
+2021,Baja California_Sur,Hombres,3,74.62453905
+2019,Baja California_Sur,Hombres,3,72.42041391
+2017,Baja California_Sur,Hombres,3,78.5684825
+2015,Baja California_Sur,Hombres,3,84.22444572
+2013,Baja California_Sur,Hombres,3,73.39198581
+2021,Campeche,Total,4,71.01213801
+2019,Campeche,Total,4,71.48889961
+2017,Campeche,Total,4,77.17457704
+2015,Campeche,Total,4,83.10480569
+2013,Campeche,Total,4,68.87856814
+2021,Campeche,Mujeres,4,62.89195992
+2019,Campeche,Mujeres,4,66.68646001
+2017,Campeche,Mujeres,4,81.03564346
+2015,Campeche,Mujeres,4,74.0986239
+2013,Campeche,Mujeres,4,74.72575282
+2021,Campeche,Hombres,4,66.22904781
+2019,Campeche,Hombres,4,67.89305094
+2017,Campeche,Hombres,4,79.46594394
+2015,Campeche,Hombres,4,77.82798005
+2013,Campeche,Hombres,4,72.29944093
+2021,Coahuila de Zaragoza,Total,5,83.04115749
+2019,Coahuila de Zaragoza,Total,5,58.32220813
+2017,Coahuila de Zaragoza,Total,5,70.97243056
+2015,Coahuila de Zaragoza,Total,5,75.04089422
+2013,Coahuila de Zaragoza,Total,5,72.70768138
+2021,Coahuila de Zaragoza,Mujeres,5,73.73919171
+2019,Coahuila de Zaragoza,Mujeres,5,72.2344332
+2017,Coahuila de Zaragoza,Mujeres,5,72.69299381
+2015,Coahuila de Zaragoza,Mujeres,5,73.02115206
+2013,Coahuila de Zaragoza,Mujeres,5,73.02663822
+2021,Coahuila de Zaragoza,Hombres,5,77.32886709
+2019,Coahuila de Zaragoza,Hombres,5,70.61814897
+2017,Coahuila de Zaragoza,Hombres,5,71.91689571
+2015,Coahuila de Zaragoza,Hombres,5,73.84819254
+2013,Coahuila de Zaragoza,Hombres,5,72.87798383
+2021,Colima,Total,6,72.5714967
+2019,Colima,Total,6,72.92839123
+2017,Colima,Total,6,79.47129982
+2015,Colima,Total,6,77.90754398
+2013,Colima,Total,6,79.36614657
+2021,Colima,Mujeres,6,71.33149088
+2019,Colima,Mujeres,6,72.7827594
+2017,Colima,Mujeres,6,78.10325515
+2015,Colima,Mujeres,6,82.47272578
+2013,Colima,Mujeres,6,79.05305432
+2021,Colima,Hombres,6,71.98418462
+2019,Colima,Hombres,6,72.80643635
+2017,Colima,Hombres,6,78.66859191
+2015,Colima,Hombres,6,80.57000706
+2013,Colima,Hombres,6,79.18822882
+2021,Chiapas,Total,7,46.84347294
+2019,Chiapas,Total,7,59.98702027
+2017,Chiapas,Total,7,54.48593875
+2015,Chiapas,Total,7,63.70582859
+2013,Chiapas,Total,7,75.85614446
+2021,Chiapas,Mujeres,7,48.24058452
+2019,Chiapas,Mujeres,7,49.40361553
+2017,Chiapas,Mujeres,7,62.52767398
+2015,Chiapas,Mujeres,7,60.79838062
+2013,Chiapas,Mujeres,7,74.33623033
+2021,Chiapas,Hombres,7,47.62331771
+2019,Chiapas,Hombres,7,51.0398329
+2017,Chiapas,Hombres,7,59.09936657
+2015,Chiapas,Hombres,7,62.15887673
+2013,Chiapas,Hombres,7,75.02757619
+2021,Chihuahua,Total,8,80.91269841
+2019,Chihuahua,Total,8,65.26254458
+2017,Chihuahua,Total,8,74.48841164
+2015,Chihuahua,Total,8,77.63284868
+2013,Chihuahua,Total,8,81.40934514
+2021,Chihuahua,Mujeres,8,70.75994041
+2019,Chihuahua,Mujeres,8,61.35419461
+2017,Chihuahua,Mujeres,8,74.71952197
+2015,Chihuahua,Mujeres,8,77.75809682
+2013,Chihuahua,Mujeres,8,79.29683638
+2021,Chihuahua,Hombres,8,75.54660754
+2019,Chihuahua,Hombres,8,62.21649943
+2017,Chihuahua,Hombres,8,74.60952361
+2015,Chihuahua,Hombres,8,77.71192413
+2013,Chihuahua,Hombres,8,80.26237847
+2021,Ciudad de México,Total,9,53.39564033
+2019,Ciudad de México,Total,9,64.19814228
+2017,Ciudad de México,Total,9,60.62511416
+2015,Ciudad de México,Total,9,59.02859607
+2013,Ciudad de México,Total,9,66.65272832
+2021,Ciudad de México,Mujeres,9,55.96816285
+2019,Ciudad de México,Mujeres,9,58.11435056
+2017,Ciudad de México,Mujeres,9,58.49547672
+2015,Ciudad de México,Mujeres,9,59.62849314
+2013,Ciudad de México,Mujeres,9,69.02302878
+2021,Ciudad de México,Hombres,9,54.91431819
+2019,Ciudad de México,Hombres,9,59.5091975
+2017,Ciudad de México,Hombres,9,59.37177042
+2015,Ciudad de México,Hombres,9,59.3584487
+2013,Ciudad de México,Hombres,9,68.0078302
+2021,Durango,Total,10,82.78817872
+2019,Durango,Total,10,64.33651302
+2017,Durango,Total,10,67.61879901
+2015,Durango,Total,10,75.62400982
+2013,Durango,Total,10,72.69212033
+2021,Durango,Mujeres,10,82.02525781
+2019,Durango,Mujeres,10,75.32993064
+2017,Durango,Mujeres,10,74.43619237
+2015,Durango,Mujeres,10,78.49455508
+2013,Durango,Mujeres,10,81.30053469
+2021,Durango,Hombres,10,82.39057826
+2019,Durango,Hombres,10,73.37958178
+2017,Durango,Hombres,10,71.51055827
+2015,Durango,Hombres,10,77.2551631
+2013,Durango,Hombres,10,77.46632312
+2021,Guanajuato,Total,11,55.54190794
+2019,Guanajuato,Total,11,54.4311051
+2017,Guanajuato,Total,11,75.08898128
+2015,Guanajuato,Total,11,74.77826837
+2013,Guanajuato,Total,11,71.61072631
+2021,Guanajuato,Mujeres,11,60.29815012
+2019,Guanajuato,Mujeres,11,68.58873001
+2017,Guanajuato,Mujeres,11,73.97478498
+2015,Guanajuato,Mujeres,11,65.56143942
+2013,Guanajuato,Mujeres,11,82.75439506
+2021,Guanajuato,Hombres,11,58.33027954
+2019,Guanajuato,Hombres,11,65.82202959
+2017,Guanajuato,Hombres,11,74.43032222
+2015,Guanajuato,Hombres,11,70.21706576
+2013,Guanajuato,Hombres,11,78.01054206
+2021,Guerrero,Total,12,39.27955775
+2019,Guerrero,Total,12,51.93330055
+2017,Guerrero,Total,12,62.72920056
+2015,Guerrero,Total,12,67.58506474
+2013,Guerrero,Total,12,65.75875486
+2021,Guerrero,Mujeres,12,57.31728301
+2019,Guerrero,Mujeres,12,53.94087748
+2017,Guerrero,Mujeres,12,64.18569454
+2015,Guerrero,Mujeres,12,60.83038153
+2013,Guerrero,Mujeres,12,68.37907594
+2021,Guerrero,Hombres,12,49.05982374
+2019,Guerrero,Hombres,12,53.56785407
+2017,Guerrero,Hombres,12,63.59399775
+2015,Guerrero,Hombres,12,63.59888309
+2013,Guerrero,Hombres,12,67.25671441
+2021,Hidalgo,Total,13,55.94986545
+2019,Hidalgo,Total,13,61.35267762
+2017,Hidalgo,Total,13,69.4826114
+2015,Hidalgo,Total,13,79.14437539
+2013,Hidalgo,Total,13,64.6193655
+2021,Hidalgo,Mujeres,13,68.63608482
+2019,Hidalgo,Mujeres,13,59.84516129
+2017,Hidalgo,Mujeres,13,69.00746436
+2015,Hidalgo,Mujeres,13,67.48408836
+2013,Hidalgo,Mujeres,13,59.45424531
+2021,Hidalgo,Hombres,13,61.68245578
+2019,Hidalgo,Hombres,13,60.12964529
+2017,Hidalgo,Hombres,13,69.20684039
+2015,Hidalgo,Hombres,13,68.41805017
+2013,Hidalgo,Hombres,13,73.14857758
+2021,Jalisco,Total,14,59.36488187
+2019,Jalisco,Total,14,68.35059559
+2017,Jalisco,Total,14,61.87559483
+2015,Jalisco,Total,14,77.58221951
+2013,Jalisco,Total,14,75.87483193
+2021,Jalisco,Mujeres,14,65.52173305
+2019,Jalisco,Mujeres,14,63.77616343
+2017,Jalisco,Mujeres,14,71.63736091
+2015,Jalisco,Mujeres,14,65.76828704
+2013,Jalisco,Mujeres,14,72.40948867
+2021,Jalisco,Hombres,14,62.64037602
+2019,Jalisco,Hombres,14,64.67011485
+2017,Jalisco,Hombres,14,67.82416553
+2015,Jalisco,Hombres,14,70.9527058
+2013,Jalisco,Hombres,14,74.01864236
+2021,México,Total,15,66.18025719
+2019,México,Total,15,47.9328962
+2017,México,Total,15,59.22861936
+2015,México,Total,15,64.24919261
+2013,México,Total,15,76.33726738
+2021,México,Mujeres,15,57.30850346
+2019,México,Mujeres,15,54.72934722
+2017,México,Mujeres,15,60.92891888
+2015,México,Mujeres,15,66.21644105
+2013,México,Mujeres,15,72.07128736
+2021,México,Hombres,15,60.96403457
+2019,México,Hombres,15,53.01089391
+2017,México,Hombres,15,60.20548714
+2015,México,Hombres,15,65.36917441
+2013,México,Hombres,15,73.77774586
+2021,Michoacán de Ocampo,Total,16,45.7345043
+2019,Michoacán de Ocampo,Total,16,39.51511146
+2017,Michoacán de Ocampo,Total,16,47.43480302
+2015,Michoacán de Ocampo,Total,16,57.85916169
+2013,Michoacán de Ocampo,Total,16,59.89289172
+2021,Michoacán de Ocampo,Mujeres,16,40.38322515
+2019,Michoacán de Ocampo,Mujeres,16,50.01485083
+2017,Michoacán de Ocampo,Mujeres,16,59.96941671
+2015,Michoacán de Ocampo,Mujeres,16,57.3080582
+2013,Michoacán de Ocampo,Mujeres,16,59.13875985
+2021,Michoacán de Ocampo,Hombres,16,43.04595504
+2019,Michoacán de Ocampo,Hombres,16,48.39000623
+2017,Michoacán de Ocampo,Hombres,16,54.53114511
+2015,Michoacán de Ocampo,Hombres,16,57.51143911
+2013,Michoacán de Ocampo,Hombres,16,59.47417765
+2021,Morelos,Total,17,62.18396458
+2019,Morelos,Total,17,62.7024037
+2017,Morelos,Total,17,65.56125434
+2015,Morelos,Total,17,62.58089075
+2013,Morelos,Total,17,62.73769517
+2021,Morelos,Mujeres,17,67.52019552
+2019,Morelos,Mujeres,17,53.42788017
+2017,Morelos,Mujeres,17,64.50074607
+2015,Morelos,Mujeres,17,68.66366502
+2013,Morelos,Mujeres,17,66.49142225
+2021,Morelos,Hombres,17,64.79588342
+2019,Morelos,Hombres,17,55.11101782
+2017,Morelos,Hombres,17,64.96839661
+2015,Morelos,Hombres,17,66.04292875
+2013,Morelos,Hombres,17,65.12608212
+2021,Nayarit,Total,18,73.47695439
+2019,Nayarit,Total,18,69.04322767
+2017,Nayarit,Total,18,76.10995472
+2015,Nayarit,Total,18,75.14228227
+2013,Nayarit,Total,18,77.21304779
+2021,Nayarit,Mujeres,18,76.17347233
+2019,Nayarit,Mujeres,18,71.71562543
+2017,Nayarit,Mujeres,18,80.23780155
+2015,Nayarit,Mujeres,18,74.81320497
+2013,Nayarit,Mujeres,18,72.81478826
+2021,Nayarit,Hombres,18,74.98152215
+2019,Nayarit,Hombres,18,71.19964389
+2017,Nayarit,Hombres,18,78.23515939
+2015,Nayarit,Hombres,18,74.93975637
+2013,Nayarit,Hombres,18,74.43813872
+2021,Nuevo León,Total,19,76.34583424
+2019,Nuevo León,Total,19,69.86918222
+2017,Nuevo León,Total,19,74.69796729
+2015,Nuevo León,Total,19,67.85161638
+2013,Nuevo León,Total,19,71.41736969
+2021,Nuevo León,Mujeres,19,69.47090904
+2019,Nuevo León,Mujeres,19,67.31634496
+2017,Nuevo León,Mujeres,19,72.49752792
+2015,Nuevo León,Mujeres,19,81.24441708
+2013,Nuevo León,Mujeres,19,72.91401826
+2021,Nuevo León,Hombres,19,72.11631679
+2019,Nuevo León,Hombres,19,67.90026926
+2017,Nuevo León,Hombres,19,73.45941324
+2015,Nuevo León,Hombres,19,75.41391789
+2013,Nuevo León,Hombres,19,72.24346166
+2021,Oaxaca,Total,20,37.574145
+2019,Oaxaca,Total,20,45.01047391
+2017,Oaxaca,Total,20,57.31305819
+2015,Oaxaca,Total,20,57.32517598
+2013,Oaxaca,Total,20,56.83513987
+2021,Oaxaca,Mujeres,20,51.49044342
+2019,Oaxaca,Mujeres,20,44.97829935
+2017,Oaxaca,Mujeres,20,64.64254953
+2015,Oaxaca,Mujeres,20,49.94473917
+2013,Oaxaca,Mujeres,20,60.76107741
+2021,Oaxaca,Hombres,20,45.72413696
+2019,Oaxaca,Hombres,20,44.98564753
+2017,Oaxaca,Hombres,20,61.46866311
+2015,Oaxaca,Hombres,20,53.31411238
+2013,Oaxaca,Hombres,20,59.0546925
+2021,Puebla,Total,21,41.60982051
+2019,Puebla,Total,21,52.10516331
+2017,Puebla,Total,21,70.52178463
+2015,Puebla,Total,21,59.04807108
+2013,Puebla,Total,21,64.12203885
+2021,Puebla,Mujeres,21,45.20946178
+2019,Puebla,Mujeres,21,51.4073595
+2017,Puebla,Mujeres,21,63.56103299
+2015,Puebla,Mujeres,21,55.86410104
+2013,Puebla,Mujeres,21,64.42563835
+2021,Puebla,Hombres,21,43.5296871
+2019,Puebla,Hombres,21,51.52426086
+2017,Puebla,Hombres,21,66.51718531
+2015,Puebla,Hombres,21,57.43309805
+2013,Puebla,Hombres,21,64.29425169
+2021,Querétaro,Total,22,48.76949587
+2019,Querétaro,Total,22,52.51030171
+2017,Querétaro,Total,22,64.018234
+2015,Querétaro,Total,22,65.69216326
+2013,Querétaro,Total,22,55.36224057
+2021,Querétaro,Mujeres,22,63.74523093
+2019,Querétaro,Mujeres,22,48.27966917
+2017,Querétaro,Mujeres,22,65.31142344
+2015,Querétaro,Mujeres,22,69.99857813
+2013,Querétaro,Mujeres,22,57.54749104
+2021,Querétaro,Hombres,22,57.03100625
+2019,Querétaro,Hombres,22,49.18598339
+2017,Querétaro,Hombres,22,64.78018828
+2015,Querétaro,Hombres,22,67.9131183
+2013,Querétaro,Hombres,22,56.85433543
+2021,Quintana Roo,Total,23,54.1316895
+2019,Quintana Roo,Total,23,64.75794689
+2017,Quintana Roo,Total,23,60.31051062
+2015,Quintana Roo,Total,23,78.23919884
+2013,Quintana Roo,Total,23,61.44048993
+2021,Quintana Roo,Mujeres,23,51.88640013
+2019,Quintana Roo,Mujeres,23,66.8401573
+2017,Quintana Roo,Mujeres,23,56.53049504
+2015,Quintana Roo,Mujeres,23,67.47024086
+2013,Quintana Roo,Mujeres,23,70.02084771
+2021,Quintana Roo,Hombres,23,52.92681755
+2019,Quintana Roo,Hombres,23,66.47254077
+2017,Quintana Roo,Hombres,23,58.27300419
+2015,Quintana Roo,Hombres,23,72.66711497
+2013,Quintana Roo,Hombres,23,66.11411275
+2021,San Luis Potosí,Total,24,47.24251419
+2019,San Luis Potosí,Total,24,75.52249284
+2017,San Luis Potosí,Total,24,64.06920166
+2015,San Luis Potosí,Total,24,68.96599068
+2013,San Luis Potosí,Total,24,73.34460254
+2021,San Luis Potosí,Mujeres,24,47.51050137
+2019,San Luis Potosí,Mujeres,24,58.74802426
+2017,San Luis Potosí,Mujeres,24,68.67475807
+2015,San Luis Potosí,Mujeres,24,64.38891722
+2013,San Luis Potosí,Mujeres,24,79.32633676
+2021,San Luis Potosí,Hombres,24,47.38853503
+2019,San Luis Potosí,Hombres,24,61.44160394
+2017,San Luis Potosí,Hombres,24,66.97498293
+2015,San Luis Potosí,Hombres,24,66.31377664
+2013,San Luis Potosí,Hombres,24,76.72950473
+2021,Sinaloa,Total,25,71.45753159
+2019,Sinaloa,Total,25,65.94449791
+2017,Sinaloa,Total,25,87.30345601
+2015,Sinaloa,Total,25,77.58952131
+2013,Sinaloa,Total,25,75.03260156
+2021,Sinaloa,Mujeres,25,75.61343267
+2019,Sinaloa,Mujeres,25,77.69747051
+2017,Sinaloa,Mujeres,25,82.07740394
+2015,Sinaloa,Mujeres,25,74.45163655
+2013,Sinaloa,Mujeres,25,74.21993552
+2021,Sinaloa,Hombres,25,73.74257212
+2019,Sinaloa,Hombres,25,75.01240363
+2017,Sinaloa,Hombres,25,84.18352725
+2015,Sinaloa,Hombres,25,75.71900924
+2013,Sinaloa,Hombres,25,74.52944191
+2021,Sonora,Total,26,70.90316379
+2019,Sonora,Total,26,77.65357118
+2017,Sonora,Total,26,78.59656567
+2015,Sonora,Total,26,77.43887307
+2013,Sonora,Total,26,71.49745009
+2021,Sonora,Mujeres,26,73.82828936
+2019,Sonora,Mujeres,26,69.74480471
+2017,Sonora,Mujeres,26,74.72301974
+2015,Sonora,Mujeres,26,80.45550462
+2013,Sonora,Mujeres,26,70.81614706
+2021,Sonora,Hombres,26,72.64760274
+2019,Sonora,Hombres,26,71.77810912
+2017,Sonora,Hombres,26,76.34607642
+2015,Sonora,Hombres,26,79.09548381
+2013,Sonora,Hombres,26,71.10908438
+2021,Tabasco,Total,27,52.17512614
+2019,Tabasco,Total,27,43.2291122
+2017,Tabasco,Total,27,57.42715705
+2015,Tabasco,Total,27,57.06927217
+2013,Tabasco,Total,27,69.72534954
+2021,Tabasco,Mujeres,27,57.03981109
+2019,Tabasco,Mujeres,27,46.84308474
+2017,Tabasco,Mujeres,27,63.6043956
+2015,Tabasco,Mujeres,27,48.90896754
+2013,Tabasco,Mujeres,27,66.66054784
+2021,Tabasco,Hombres,27,54.88762022
+2019,Tabasco,Hombres,27,46.38627472
+2017,Tabasco,Hombres,27,61.34863632
+2015,Tabasco,Hombres,27,52.46689159
+2013,Tabasco,Hombres,27,67.82663634
+2021,Tamaulipas,Total,28,65.46953299
+2019,Tamaulipas,Total,28,59.61538462
+2017,Tamaulipas,Total,28,68.92954538
+2015,Tamaulipas,Total,28,73.53581568
+2013,Tamaulipas,Total,28,73.21756613
+2021,Tamaulipas,Mujeres,28,68.90650423
+2019,Tamaulipas,Mujeres,28,68.10684985
+2017,Tamaulipas,Mujeres,28,72.48205564
+2015,Tamaulipas,Mujeres,28,66.14523867
+2013,Tamaulipas,Mujeres,28,73.93665158
+2021,Tamaulipas,Hombres,28,67.62823015
+2019,Tamaulipas,Hombres,28,67.04872929
+2017,Tamaulipas,Hombres,28,70.91474617
+2015,Tamaulipas,Hombres,28,69.32070292
+2013,Tamaulipas,Hombres,28,73.64965184
+2021,Tlaxcala,Total,29,49.65589102
+2019,Tlaxcala,Total,29,61.71426339
+2017,Tlaxcala,Total,29,56.86861336
+2015,Tlaxcala,Total,29,69.609375
+2013,Tlaxcala,Total,29,71.75294762
+2021,Tlaxcala,Mujeres,29,50.81816765
+2019,Tlaxcala,Mujeres,29,66.09547203
+2017,Tlaxcala,Mujeres,29,61.48784025
+2015,Tlaxcala,Mujeres,29,62.92295823
+2013,Tlaxcala,Mujeres,29,63.84166804
+2021,Tlaxcala,Hombres,29,50.3506021
+2019,Tlaxcala,Hombres,29,65.47065214
+2017,Tlaxcala,Hombres,29,59.40955666
+2015,Tlaxcala,Hombres,29,65.88469718
+2013,Tlaxcala,Hombres,29,67.32389161
+2021,Veracruz de Ignacio de la Llave,Total,30,51.50141293
+2019,Veracruz de Ignacio de la Llave,Total,30,68.15545097
+2017,Veracruz de Ignacio de la Llave,Total,30,68.44940381
+2015,Veracruz de Ignacio de la Llave,Total,30,67.67816277
+2013,Veracruz de Ignacio de la Llave,Total,30,73.10807229
+2021,Veracruz de Ignacio de la Llave,Mujeres,30,52.64419943
+2019,Veracruz de Ignacio de la Llave,Mujeres,30,60.906687
+2017,Veracruz de Ignacio de la Llave,Mujeres,30,60.83671327
+2015,Veracruz de Ignacio de la Llave,Mujeres,30,75.22946312
+2013,Veracruz de Ignacio de la Llave,Mujeres,30,63.87618031
+2021,Veracruz de Ignacio de la Llave,Hombres,30,52.24475747
+2019,Veracruz de Ignacio de la Llave,Hombres,30,62.41735914
+2017,Veracruz de Ignacio de la Llave,Hombres,30,64.07612372
+2015,Veracruz de Ignacio de la Llave,Hombres,30,72.48979532
+2013,Veracruz de Ignacio de la Llave,Hombres,30,67.52163901
+2021,Yucatán,Total,31,73.22710242
+2019,Yucatán,Total,31,79.18300521
+2017,Yucatán,Total,31,78.52917418
+2015,Yucatán,Total,31,73.30497467
+2013,Yucatán,Total,31,85.53920276
+2021,Yucatán,Mujeres,31,65.54301701
+2019,Yucatán,Mujeres,31,71.27468261
+2017,Yucatán,Mujeres,31,77.64600834
+2015,Yucatán,Mujeres,31,73.30970746
+2013,Yucatán,Mujeres,31,70.35910997
+2021,Yucatán,Hombres,31,68.69732795
+2019,Yucatán,Hombres,31,73.07434017
+2017,Yucatán,Hombres,31,78.10096255
+2015,Yucatán,Hombres,31,73.30791171
+2013,Yucatán,Hombres,31,77.78604611
+2021,Zacatecas,Total,32,70.69859934
+2019,Zacatecas,Total,32,60.56163732
+2017,Zacatecas,Total,32,65.48750591
+2015,Zacatecas,Total,32,59.25178021
+2013,Zacatecas,Total,32,76.65716225
+2021,Zacatecas,Mujeres,32,64.85590368
+2019,Zacatecas,Mujeres,32,58.66194508
+2017,Zacatecas,Mujeres,32,62.13454686
+2015,Zacatecas,Mujeres,32,65.91495147
+2013,Zacatecas,Mujeres,32,75.51793002
+2021,Zacatecas,Hombres,32,67.73035467
+2019,Zacatecas,Hombres,32,58.86146186
+2017,Zacatecas,Hombres,32,63.80951358
+2015,Zacatecas,Hombres,32,62.79174035
+2013,Zacatecas,Hombres,32,75.96229213

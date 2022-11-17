@@ -1,0 +1,56 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total Grupos de edad",
+                "Hombres Grupos de edad",
+                "Mujeres Grupos de edad",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Clasificación",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "De 15 a 24 años",
+                "De 25 a 34 años",
+                "De 35 a 44 años",
+                "De 45 a 54 años",
+                "De 55 a 64 años",
+                "De 65 años y más",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-7-2",
+  "title": "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group"
+}
