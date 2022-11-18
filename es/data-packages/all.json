@@ -7586,22 +7586,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Año"
-          },
-          {
-            "name": "Trimestre",
             "type": "string",
-            "constraints": {
-              "enum": [
-                "I",
-                "II",
-                "III",
-                "IV",
-                ""
-              ]
-            },
-            "title": "Trimestre"
+            "title": "Año"
           },
           {
             "name": "Value",
