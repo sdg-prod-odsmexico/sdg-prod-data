@@ -15,16 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100 000 habitantes",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100 000 habitantes",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
