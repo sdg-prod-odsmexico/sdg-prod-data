@@ -1,0 +1,477 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+
+            <title>Disaggregation: San Luis Potosí - SDG data build documentation</title>
+
+            <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
+            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.css">
+            <style>
+                .btn-primary {
+                    background-color: #00703c;
+                    padding: 8px 10px 7px;
+                    border: 2px solid transparent;
+                    border-radius: 0;
+                    color: #fff;
+                    box-shadow: 0 2px 0 #002d18;
+                    text-decoration: none;
+                }
+                .btn-primary:visited {
+                    color: #fff;
+                }
+                .btn-primary:hover, .btn-primary:not(:disabled):not(.disabled):active {
+                    background-color: #005a30;
+                    text-decoration: none;
+                    border: 2px solid transparent;
+                }
+                .btn-primary:focus:not(:active):not(:hover) {
+                    border-color: #fd0;
+                    color: #0b0c0c;
+                    background-color: #fd0;
+                    box-shadow: 0 2px 0 #0b0c0c;
+                }
+                a {
+                    color: #1D70B8;
+                    text-decoration: underline;
+                }
+                a:hover {
+                    color: #003078;
+                }
+                a:visited {
+                    color: #4c2c92;
+                }
+                .download-info {
+                    margin-left: 12px;
+                }
+                .table-striped tbody tr:nth-of-type(2n+1) {
+                    background-color: #f3f2f1;
+                }
+                #skiplink {
+                    position: absolute;
+                    top: 0;
+                    left: 50%;
+                    z-index: 10000;
+                    width: 250px;
+                    margin-left: -125px;
+                    padding: 10px;
+                    background: white;
+                    text-align: center;
+                    border: 1px solid #0b0c0c;
+                    color: #0b0c0c;
+                    display: block;
+                }
+                .sr-only-focusable:not(:focus):not(:focus-within) {
+                    position: absolute !important;
+                    width: 1px !important;
+                    height: 1px !important;
+                    padding: 0 !important;
+                    margin: -1px !important;
+                    overflow: hidden !important;
+                    clip: rect(0, 0, 0, 0) !important;
+                    white-space: nowrap !important;
+                    border: 0 !important;
+                }
+            </style>
+        </head>
+        <body>
+            <a class="sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container">
+                    <a class="navbar-brand" href="index.html">SDG data build documentation</a>
+                </div>
+            </nav>
+            <main id="main-content" role="main">
+                <div class="container">
+                    <h1 style="margin:20px 0">Disaggregation: San Luis Potosí</h1>
+                    <div>
+                        
+        <div role="navigation" aria-describedby="contents-heading">
+            <h2 id="contents-heading">On this page</h2>
+            <ul>
+                <li><a href="#values-used">Values used in disaggregation</a></li>
+                <li><a href="#indicators-using">Indicators using disaggregation</a></li>
+            </ul>
+        </div>
+        <div>
+            <h2 id="values-used" tabindex="-1">Values used in disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="values--disaggregation--san-luis-potosí.csv" role="button" class="btn btn-primary" aria-describedby="values--disaggregation--san-luis-potosí">Download CSV of values used in this disaggregation</a>
+            <div id="values--disaggregation--san-luis-potosí" class="download-info">Size: 1.1 kB</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">58</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Value</th>
+      <th>Disaggregation combinations using this value</th>
+      <th>Number of indicators</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="disaggregation-value--ahualulco.html">Ahualulco</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--alaquines.html">Alaquines</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--aquismón.html">Aquismón</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--armadillo-de-los-infante.html">Armadillo de los Infante</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--axtla-de-terrazas.html">Axtla de Terrazas</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--catorce.html">Catorce</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--cedral.html">Cedral</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--cerritos.html">Cerritos</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--cerro-de-san-pedro.html">Cerro de San Pedro</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--charcas.html">Charcas</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ciudad-del-maíz.html">Ciudad del Maíz</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ciudad-fernández.html">Ciudad Fernández</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ciudad-valles.html">Ciudad Valles</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--coxcatlán.html">Coxcatlán</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--cárdenas_.html">Cárdenas</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ebano.html">Ebano</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--el-naranjo.html">El Naranjo</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--guadalcázar.html">Guadalcázar</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--huehuetlán.html">Huehuetlán</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--lagunillas.html">Lagunillas</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--matehuala.html">Matehuala</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--matlapa.html">Matlapa</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--mexquitic-de-carmona.html">Mexquitic de Carmona</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--moctezuma_.html">Moctezuma</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--rayón_.html">Rayón</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--rioverde.html">Rioverde</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--salinas.html">Salinas</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--san-antonio.html">San Antonio</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--san-ciro-de-acosta.html">San Ciro de Acosta</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--san-luis-potosí_.html">San Luis Potosí</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--san-martín-chalchicuautla.html">San Martín Chalchicuautla</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--san-nicolás-tolentino.html">San Nicolás Tolentino</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--san-vicente-tancuayalab.html">San Vicente Tancuayalab</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--santa-catarina.html">Santa Catarina</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--santa-maría-del-río.html">Santa María del Río</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--santo-domingo.html">Santo Domingo</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--soledad-de-graciano-sánchez.html">Soledad de Graciano Sánchez</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--tamasopo.html">Tamasopo</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--tamazunchale.html">Tamazunchale</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--tampacán.html">Tampacán</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--tampamolón-corona.html">Tampamolón Corona</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--tamuín.html">Tamuín</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--tancanhuitz.html">Tancanhuitz</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--tanlajás.html">Tanlajás</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--tanquián-de-escobedo.html">Tanquián de Escobedo</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--tierra-nueva.html">Tierra Nueva</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--vanegas.html">Vanegas</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--venado.html">Venado</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--villa-de-arista.html">Villa de Arista</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--villa-de-arriaga.html">Villa de Arriaga</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--villa-de-guadalupe.html">Villa de Guadalupe</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--villa-de-la-paz.html">Villa de la Paz</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--villa-de-ramos.html">Villa de Ramos</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--villa-de-reyes.html">Villa de Reyes</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--villa-hidalgo_.html">Villa Hidalgo</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--villa-juárez.html">Villa Juárez</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--xilitla.html">Xilitla</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--zaragoza_.html">Zaragoza</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--ahualulco.html\">Ahualulco<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--alaquines.html\">Alaquines<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--aquism\u00f3n.html\">Aquism\u00f3n<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--armadillo-de-los-infante.html\">Armadillo de los Infante<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--axtla-de-terrazas.html\">Axtla de Terrazas<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--catorce.html\">Catorce<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--cedral.html\">Cedral<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--cerritos.html\">Cerritos<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--cerro-de-san-pedro.html\">Cerro de San Pedro<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--charcas.html\">Charcas<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--ciudad-del-ma\u00edz.html\">Ciudad del Ma\u00edz<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--ciudad-fern\u00e1ndez.html\">Ciudad Fern\u00e1ndez<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--ciudad-valles.html\">Ciudad Valles<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--coxcatl\u00e1n.html\">Coxcatl\u00e1n<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--c\u00e1rdenas_.html\">C\u00e1rdenas<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--ebano.html\">Ebano<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--el-naranjo.html\">El Naranjo<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--guadalc\u00e1zar.html\">Guadalc\u00e1zar<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--huehuetl\u00e1n.html\">Huehuetl\u00e1n<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--lagunillas.html\">Lagunillas<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--matehuala.html\">Matehuala<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--matlapa.html\">Matlapa<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--mexquitic-de-carmona.html\">Mexquitic de Carmona<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--moctezuma_.html\">Moctezuma<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--ray\u00f3n_.html\">Ray\u00f3n<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--rioverde.html\">Rioverde<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--salinas.html\">Salinas<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--san-antonio.html\">San Antonio<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--san-ciro-de-acosta.html\">San Ciro de Acosta<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--san-luis-potos\u00ed_.html\">San Luis Potos\u00ed<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--san-mart\u00edn-chalchicuautla.html\">San Mart\u00edn Chalchicuautla<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--san-nicol\u00e1s-tolentino.html\">San Nicol\u00e1s Tolentino<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--san-vicente-tancuayalab.html\">San Vicente Tancuayalab<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--santa-catarina.html\">Santa Catarina<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--santa-mar\u00eda-del-r\u00edo.html\">Santa Mar\u00eda del R\u00edo<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--santo-domingo.html\">Santo Domingo<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--soledad-de-graciano-s\u00e1nchez.html\">Soledad de Graciano S\u00e1nchez<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--tamasopo.html\">Tamasopo<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--tamazunchale.html\">Tamazunchale<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--tampac\u00e1n.html\">Tampac\u00e1n<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--tampamol\u00f3n-corona.html\">Tampamol\u00f3n Corona<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--tamu\u00edn.html\">Tamu\u00edn<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--tancanhuitz.html\">Tancanhuitz<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--tanlaj\u00e1s.html\">Tanlaj\u00e1s<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--tanqui\u00e1n-de-escobedo.html\">Tanqui\u00e1n de Escobedo<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--tierra-nueva.html\">Tierra Nueva<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--vanegas.html\">Vanegas<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--venado.html\">Venado<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--villa-de-arista.html\">Villa de Arista<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--villa-de-arriaga.html\">Villa de Arriaga<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--villa-de-guadalupe.html\">Villa de Guadalupe<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--villa-de-la-paz.html\">Villa de la Paz<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--villa-de-ramos.html\">Villa de Ramos<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--villa-de-reyes.html\">Villa de Reyes<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--villa-hidalgo_.html\">Villa Hidalgo<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--villa-ju\u00e1rez.html\">Villa Ju\u00e1rez<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--xilitla.html\">Xilitla<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--zaragoza_.html\">Zaragoza<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2}];
+            </script>
+            
+        </div>
+        <div>
+            <h2 id="indicators-using" tabindex="-1">Indicators using disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="indicators--disaggregation--san-luis-potosí.csv" role="button" class="btn btn-primary" aria-describedby="indicators--disaggregation--san-luis-potosí">Download CSV of indicators using this disaggregation</a>
+            <div id="indicators--disaggregation--san-luis-potosí" class="download-info">Size: 24 Bytes</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">2</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="indicators-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Indicator</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>#1-2-1</td>
+    </tr>
+    <tr>
+      <td>#2-1-2</td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['indicators-table'] = [{"Indicator":"#1-2-1"},{"Indicator":"#2-1-2"}];
+            </script>
+            
+        </div>
+        
+                    </div>
+                </div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+            <script>
+            if (typeof sdgBuild !== 'undefined' && sdgBuild.tables) {
+                var tableIds = Object.keys(sdgBuild.tables);
+                for (var i = 0; i < tableIds.length; i++) {
+                    var tableId = tableIds[i];
+                    $('#' + tableId).openSdgTable(sdgBuild.tables[tableId]).find('td').each(function() {
+                        if (!isNaN($(this).text())) {
+                            $(this).css('text-align', 'right');
+                        }
+                    })
+                }
+            }
+            </script>
+        </html>
+        

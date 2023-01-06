@@ -12,8 +12,82 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Satisfacción con el servicio de educación pública obligatoria",
+                "Satisfacción con el servicio de educación pública universitaria",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California_Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total a/",
+                "Mujeres",
+                "Hombres",
+                "Total",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

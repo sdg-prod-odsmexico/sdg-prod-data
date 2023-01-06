@@ -1,8 +1,39 @@
 Disaggregation,Number of indicators,Number of values
-Clasificación,2,15
-Desglose_geográfico,2,4803
-Entidad_federativa,3,34
+Aguascalientes,2,11
+Baja California Sur,2,5
+Baja California,2,6
+Campeche,2,13
+Chiapas,2,124
+Chihuahua,2,67
+Ciudad de México,2,16
+Clasificación,1,7
+Coahuila de Zaragoza,2,38
+Colima,2,10
+Durango,2,39
+Entidad federativa,3,34
+Entidad_federativa,2,34
 Group,1,3
-Grupo,1,2
-Municipio,1,2324
-Sexo,2,7
+Grupo de edad,2,6
+Guanajuato,2,46
+Guerrero,2,81
+Hidalgo,2,84
+Jalisco,2,125
+Michoacán de Ocampo,2,113
+Morelos,2,36
+México,2,125
+Nayarit,2,20
+Nuevo León,2,51
+Oaxaca,2,570
+Puebla,2,217
+Querétaro,2,18
+Quintana Roo,2,11
+San Luis Potosí,2,58
+Sexo,5,7
+Sinaloa,2,18
+Sonora,2,72
+Tabasco,2,17
+Tamaulipas,2,43
+Tlaxcala,2,60
+Veracruz de Ignacio de la Llave,2,212
+Yucatán,2,106
+Zacatecas,2,58
