@@ -15,44 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proporción de la población que vive por debajo del umbral nacional de la pobreza, desglosada por sexo y edad",
-                "Proporción de la población que vive por debajo del umbral nacional de la pobreza, por desglose geográfico",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sexo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "Hombres",
-                "Mujeres",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Grupo de edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Menores_de_18_años",
-                "De_18_años_o_más",
-                "Entre_12_y_29_años_de_edad",
-                "De_0_a_11_años_y_de_30_años_o_más",
-                "De_65_años_o_más",
-                "Menores_de_65_años",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Entidad federativa",
             "type": "string",
             "constraints": {
@@ -95,7 +57,7 @@
             }
           },
           {
-            "name": "Aguascalientes",
+            "name": "Municipios",
             "type": "string",
             "constraints": {
               "enum": [
@@ -110,44 +72,17 @@
                 "Tepezalá",
                 "El Llano",
                 "San Francisco de los Romo",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Baja California",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Ensenada",
                 "Mexicali",
                 "Tecate",
                 "Tijuana",
                 "Playas de Rosarito",
                 "San Quintín",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Baja California Sur",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Comondú",
                 "Mulegé",
                 "La Paz",
                 "Los Cabos",
                 "Loreto",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Campeche",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Calkiní",
                 "Campeche",
                 "Carmen",
@@ -161,15 +96,6 @@
                 "Candelaria",
                 "Seybaplaya",
                 "Dzitbalché",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Coahuila de Zaragoza",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Abasolo",
                 "Acuña",
                 "Allende",
@@ -208,15 +134,6 @@
                 "Viesca",
                 "Villa Unión",
                 "Zaragoza",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Colima",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Armería",
                 "Colima",
                 "Comala",
@@ -227,15 +144,6 @@
                 "Minatitlán",
                 "Tecomán",
                 "Villa de Álvarez",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Chiapas",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Acacoyagua",
                 "Acala",
                 "Acapetahua",
@@ -283,7 +191,6 @@
                 "Ixtapangajoya",
                 "Jiquipilas",
                 "Jitotol",
-                "Juárez",
                 "Larráinzar",
                 "La Libertad",
                 "Mapastepec",
@@ -360,18 +267,7 @@
                 "Emiliano Zapata",
                 "Mezcalapa",
                 "Honduras de la Sierra",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Chihuahua",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Ahumada",
-                "Aldama",
-                "Allende",
                 "Aquiles Serdán",
                 "Ascensión",
                 "Bachíniva",
@@ -385,7 +281,6 @@
                 "Coronado",
                 "Coyame del Sotol",
                 "La Cruz",
-                "Cuauhtémoc",
                 "Cusihuiriachi",
                 "Chihuahua",
                 "Chínipas",
@@ -399,27 +294,21 @@
                 "Guadalupe",
                 "Guadalupe y Calvo",
                 "Guazapares",
-                "Guerrero",
                 "Hidalgo del Parral",
                 "Huejotitán",
                 "Ignacio Zaragoza",
                 "Janos",
-                "Jiménez",
-                "Juárez",
                 "Julimes",
                 "López",
                 "Madera",
                 "Maguarichi",
                 "Manuel Benavides",
                 "Matachí",
-                "Matamoros",
                 "Meoqui",
-                "Morelos",
                 "Moris",
                 "Namiquipa",
                 "Nonoava",
                 "Nuevo Casas Grandes",
-                "Ocampo",
                 "Ojinaga",
                 "Praxedis G. Guerrero",
                 "Riva Palacio",
@@ -436,15 +325,6 @@
                 "Urique",
                 "Uruachi",
                 "Valle de Zaragoza",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Ciudad de México",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Azcapotzalco",
                 "Coyoacán",
                 "Cuajimalpa de Morelos",
@@ -458,18 +338,7 @@
                 "Tlalpan",
                 "Xochimilco",
                 "Benito Juárez",
-                "Cuauhtémoc",
                 "Miguel Hidalgo",
-                "Venustiano Carranza",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Durango",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Canatlán",
                 "Canelas",
                 "Coneto de Comonfort",
@@ -479,14 +348,12 @@
                 "Gómez Palacio",
                 "Guadalupe Victoria",
                 "Guanaceví",
-                "Hidalgo",
                 "Indé",
                 "Lerdo",
                 "Mapimí",
                 "Mezquital",
                 "Nazas",
                 "Nombre de Dios",
-                "Ocampo",
                 "El Oro",
                 "Otáez",
                 "Pánuco de Coronado",
@@ -509,16 +376,6 @@
                 "Topia",
                 "Vicente Guerrero",
                 "Nuevo Ideal",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Guanajuato",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Abasolo",
                 "Acámbaro",
                 "San Miguel de Allende",
                 "Apaseo el Alto",
@@ -539,9 +396,7 @@
                 "Jerécuaro",
                 "León",
                 "Moroleón",
-                "Ocampo",
                 "Pénjamo",
-                "Pueblo Nuevo",
                 "Purísima del Rincón",
                 "Romita",
                 "Salamanca",
@@ -564,15 +419,6 @@
                 "Villagrán",
                 "Xichú",
                 "Yuriria",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Guerrero",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Acapulco de Juárez",
                 "Ahuacuotzingo",
                 "Ajuchitlán del Progreso",
@@ -586,7 +432,6 @@
                 "Atoyac de Álvarez",
                 "Ayutla de los Libres",
                 "Azoyú",
-                "Benito Juárez",
                 "Buenavista de Cuéllar",
                 "Coahuayutla de José María Izazaga",
                 "Cocula",
@@ -654,15 +499,6 @@
                 "José Joaquín de Herrera",
                 "Juchitán",
                 "Iliatenco",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Hidalgo",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Acatlán",
                 "Acaxochitlán",
                 "Actopan",
@@ -683,9 +519,7 @@
                 "Chapulhuacán",
                 "Chilcuautla",
                 "Eloxochitlán",
-                "Emiliano Zapata",
                 "Epazoyucan",
-                "Francisco I. Madero",
                 "Huasca de Ocampo",
                 "Huautla",
                 "Huazalingo",
@@ -747,15 +581,6 @@
                 "Zapotlán de Juárez",
                 "Zempoala",
                 "Zimapán",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Jalisco",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Acatic",
                 "Acatlán de Juárez",
                 "Ahualulco de Mercado",
@@ -764,7 +589,6 @@
                 "Ameca",
                 "San Juanito de Escobedo",
                 "Arandas",
-                "El Arenal",
                 "Atemajac de Brizuela",
                 "Atengo",
                 "Atenguillo",
@@ -779,7 +603,6 @@
                 "Casimiro Castillo",
                 "Cihuatlán",
                 "Zapotlán el Grande",
-                "Cocula",
                 "Colotlán",
                 "Concepción de Buenos Aires",
                 "Cuautitlán de García Barragán",
@@ -803,7 +626,6 @@
                 "Ixtlahuacán del Río",
                 "Jalostotitlán",
                 "Jamay",
-                "Jesús María",
                 "Jilotlán de los Dolores",
                 "Jocotepec",
                 "Juanacatlán",
@@ -830,11 +652,9 @@
                 "San Diego de Alejandría",
                 "San Juan de los Lagos",
                 "San Julián",
-                "San Marcos",
                 "San Martín de Bolaños",
                 "San Martín Hidalgo",
                 "San Miguel el Alto",
-                "Gómez Farías",
                 "San Sebastián del Oeste",
                 "Santa María de los Ángeles",
                 "Sayula",
@@ -856,7 +676,6 @@
                 "San Pedro Tlaquepaque",
                 "Tolimán",
                 "Tomatlán",
-                "Tonalá",
                 "Tonaya",
                 "Tonila",
                 "Totatiche",
@@ -881,15 +700,6 @@
                 "Zapotlán del Rey",
                 "Zapotlanejo",
                 "San Ignacio Cerro Gordo",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "México",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Acambay de Ruíz Castañeda",
                 "Acolman",
                 "Aculco",
@@ -943,9 +753,7 @@
                 "Lerma",
                 "Malinalco",
                 "Melchor Ocampo",
-                "Metepec",
                 "Mexicaltzingo",
-                "Morelos",
                 "Naucalpan de Juárez",
                 "Nezahualcóyotl",
                 "Nextlalpan",
@@ -953,15 +761,12 @@
                 "Nopaltepec",
                 "Ocoyoacac",
                 "Ocuilan",
-                "El Oro",
                 "Otumba",
                 "Otzoloapan",
                 "Otzolotepec",
                 "Ozumba",
                 "Papalotla",
-                "La Paz",
                 "Polotitlán",
-                "Rayón",
                 "San Antonio la Isla",
                 "San Felipe del Progreso",
                 "San Martín de las Pirámides",
@@ -1002,7 +807,6 @@
                 "Valle de Bravo",
                 "Villa de Allende",
                 "Villa del Carbón",
-                "Villa Guerrero",
                 "Villa Victoria",
                 "Xonacatlán",
                 "Zacazonapan",
@@ -1015,25 +819,14 @@
                 "Luvianos",
                 "San José del Rincón",
                 "Tonanitla",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Michoacán de Ocampo",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Acuitzio",
                 "Aguililla",
-                "Álvaro Obregón",
                 "Angamacutiro",
                 "Angangueo",
                 "Apatzingán",
                 "Aporo",
                 "Aquila",
                 "Ario",
-                "Arteaga",
                 "Briseñas",
                 "Buenavista",
                 "Carácuaro",
@@ -1057,7 +850,6 @@
                 "Epitacio Huerta",
                 "Erongarícuaro",
                 "Gabriel Zamora",
-                "Hidalgo",
                 "La Huacana",
                 "Huandacareo",
                 "Huaniqueo",
@@ -1067,9 +859,7 @@
                 "Irimbo",
                 "Ixtlán",
                 "Jacona",
-                "Jiménez",
                 "Jiquilpan",
-                "Juárez",
                 "Jungapeo",
                 "Lagunillas",
                 "Madero",
@@ -1077,14 +867,12 @@
                 "Marcos Castellanos",
                 "Lázaro Cárdenas",
                 "Morelia",
-                "Morelos",
                 "Múgica",
                 "Nahuatzen",
                 "Nocupétaro",
                 "Nuevo Parangaricutiro",
                 "Nuevo Urecho",
                 "Numarán",
-                "Ocampo",
                 "Pajacuarán",
                 "Panindícuaro",
                 "Parácuaro",
@@ -1100,7 +888,6 @@
                 "Cojumatlán de Régules",
                 "Los Reyes",
                 "Sahuayo",
-                "San Lucas",
                 "Santa Ana Maya",
                 "Salvador Escalante",
                 "Senguio",
@@ -1121,12 +908,10 @@
                 "Tocumbo",
                 "Tumbiscatío",
                 "Turicato",
-                "Tuxpan",
                 "Tuzantla",
                 "Tzintzuntzan",
                 "Tzitzio",
                 "Uruapan",
-                "Venustiano Carranza",
                 "Villamar",
                 "Vista Hermosa",
                 "Yurécuaro",
@@ -1137,23 +922,12 @@
                 "Ziracuaretiro",
                 "Zitácuaro",
                 "José Sixto Verduzco",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Morelos",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Amacuzac",
                 "Atlatlahucan",
                 "Axochiapan",
                 "Ayala",
                 "Coatlán del Río",
-                "Cuautla",
                 "Cuernavaca",
-                "Emiliano Zapata",
                 "Huitzilac",
                 "Jantetelco",
                 "Jiutepec",
@@ -1182,15 +956,6 @@
                 "Coatetelco",
                 "Xoxocotla",
                 "Hueyapan",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Nayarit",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Acaponeta",
                 "Ahuacatlán",
                 "Amatlán de Cañas",
@@ -1204,26 +969,13 @@
                 "Ruíz",
                 "San Blas",
                 "San Pedro Lagunillas",
-                "Santa María del Oro",
                 "Santiago Ixcuintla",
                 "Tecuala",
                 "Tepic",
-                "Tuxpan",
                 "La Yesca",
                 "Bahía de Banderas",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Nuevo León",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Abasolo",
                 "Agualeguas",
                 "Los Aldamas",
-                "Allende",
                 "Anáhuac",
                 "Apodaca",
                 "Aramberri",
@@ -1236,7 +988,6 @@
                 "Doctor Arroyo",
                 "Doctor Coss",
                 "Doctor González",
-                "Galeana",
                 "García",
                 "San Pedro Garza García",
                 "General Bravo",
@@ -1245,16 +996,13 @@
                 "General Treviño",
                 "General Zaragoza",
                 "General Zuazua",
-                "Guadalupe",
                 "Los Herreras",
                 "Higueras",
                 "Hualahuises",
                 "Iturbide",
-                "Juárez",
                 "Lampazos de Naranjo",
                 "Linares",
                 "Marín",
-                "Melchor Ocampo",
                 "Mier y Noriega",
                 "Mina",
                 "Montemorelos",
@@ -1266,20 +1014,9 @@
                 "Sabinas Hidalgo",
                 "Salinas Victoria",
                 "San Nicolás de los Garza",
-                "Hidalgo",
-                "Santa Catarina",
                 "Santiago",
                 "Vallecillo",
                 "Villaldama",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Oaxaca",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Abejones",
                 "Acatlán de Pérez Figueroa",
                 "Asunción Cacalotepec",
@@ -1317,7 +1054,6 @@
                 "Guelatao de Juárez",
                 "Guevea de Humboldt",
                 "Mesones Hidalgo",
-                "Villa Hidalgo",
                 "Heroica Ciudad de Huajuapan de León",
                 "Huautepec",
                 "Huautla de Jiménez",
@@ -1473,7 +1209,6 @@
                 "San Juan Chicomezúchil",
                 "San Juan Chilateca",
                 "San Juan del Estado",
-                "San Juan del Río",
                 "San Juan Diuxi",
                 "San Juan Evangelista Analco",
                 "San Juan Guelavía",
@@ -1850,21 +1585,10 @@
                 "Zapotitlán Palmas",
                 "Santa Inés de Zaragoza",
                 "Zimatlán de Álvarez",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Puebla",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Acajete",
                 "Acateno",
-                "Acatlán",
                 "Acatzingo",
                 "Acteopan",
-                "Ahuacatlán",
                 "Ahuatlán",
                 "Ahuazotepec",
                 "Ahuehuetitla",
@@ -1895,7 +1619,6 @@
                 "Coronango",
                 "Coxcatlán",
                 "Coyomeapan",
-                "Coyotepec",
                 "Cuapiaxtla de Madero",
                 "Cuautempan",
                 "Cuautinchán",
@@ -1905,7 +1628,6 @@
                 "Cuyoaco",
                 "Chalchicomula de Sesma",
                 "Chapulco",
-                "Chiautla",
                 "Chiautzingo",
                 "Chiconcuautla",
                 "Chichiquila",
@@ -1919,21 +1641,16 @@
                 "Chilchotla",
                 "Chinantla",
                 "Domingo Arenas",
-                "Eloxochitlán",
                 "Epatlán",
                 "Esperanza",
                 "Francisco Z. Mena",
                 "General Felipe Ángeles",
-                "Guadalupe",
-                "Guadalupe Victoria",
                 "Hermenegildo Galeana",
                 "Huaquechula",
                 "Huatlatlauca",
                 "Huauchinango",
-                "Huehuetla",
                 "Huehuetlán el Chico",
                 "Huejotzingo",
-                "Hueyapan",
                 "Hueytamalco",
                 "Hueytlalpan",
                 "Huitzilan de Serdán",
@@ -1963,13 +1680,11 @@
                 "Nealtican",
                 "Nicolás Bravo",
                 "Nopalucan",
-                "Ocotepec",
                 "Ocoyucan",
                 "Olintla",
                 "Oriental",
                 "Pahuatlán",
                 "Palmar de Bravo",
-                "Pantepec",
                 "Petlalcingo",
                 "Piaxtla",
                 "Puebla",
@@ -2052,8 +1767,6 @@
                 "Tulcingo",
                 "Tuzamapan de Galeana",
                 "Tzicatlacoyan",
-                "Venustiano Carranza",
-                "Vicente Guerrero",
                 "Xayacatlán de Bravo",
                 "Xicotepec",
                 "Xicotlán",
@@ -2069,22 +1782,12 @@
                 "Zacatlán",
                 "Zapotitlán",
                 "Zapotitlán de Méndez",
-                "Zaragoza",
                 "Zautla",
                 "Zihuateutla",
                 "Zinacatepec",
                 "Zongozotla",
                 "Zoquiapan",
                 "Zoquitlán",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Querétaro",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Amealco de Bonfil",
                 "Pinal de Amoles",
                 "Arroyo Seco",
@@ -2100,38 +1803,16 @@
                 "Peñamiller",
                 "Querétaro",
                 "San Joaquín",
-                "San Juan del Río",
                 "Tequisquiapan",
-                "Tolimán",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Quintana Roo",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Cozumel",
                 "Felipe Carrillo Puerto",
                 "Isla Mujeres",
                 "Othón P. Blanco",
-                "Benito Juárez",
                 "José María Morelos",
-                "Lázaro Cárdenas",
                 "Solidaridad",
                 "Tulum",
                 "Bacalar",
                 "Puerto Morelos",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "San Luis Potosí",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Ahualulco",
                 "Alaquines",
                 "Aquismón",
@@ -2145,16 +1826,13 @@
                 "Ciudad Fernández",
                 "Tancanhuitz",
                 "Ciudad Valles",
-                "Coxcatlán",
                 "Charcas",
                 "Ebano",
                 "Guadalcázar",
                 "Huehuetlán",
-                "Lagunillas",
                 "Matehuala",
                 "Mexquitic de Carmona",
                 "Moctezuma",
-                "Rayón",
                 "Rioverde",
                 "Salinas",
                 "San Antonio",
@@ -2162,7 +1840,6 @@
                 "San Luis Potosí",
                 "San Martín Chalchicuautla",
                 "San Nicolás Tolentino",
-                "Santa Catarina",
                 "Santa María del Río",
                 "Santo Domingo",
                 "San Vicente Tancuayalab",
@@ -2182,23 +1859,12 @@
                 "Villa de la Paz",
                 "Villa de Ramos",
                 "Villa de Reyes",
-                "Villa Hidalgo",
                 "Villa Juárez",
                 "Axtla de Terrazas",
                 "Xilitla",
-                "Zaragoza",
                 "Villa de Arista",
                 "Matlapa",
                 "El Naranjo",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sinaloa",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Ahome",
                 "Angostura",
                 "Badiraguato",
@@ -2212,20 +1878,10 @@
                 "Guasave",
                 "Mazatlán",
                 "Mocorito",
-                "Rosario",
                 "Salvador Alvarado",
                 "San Ignacio",
                 "Sinaloa",
                 "Navolato",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sonora",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Aconchi",
                 "Agua Prieta",
                 "Alamos",
@@ -2261,9 +1917,6 @@
                 "Huatabampo",
                 "Huépac",
                 "Imuris",
-                "Magdalena",
-                "Mazatán",
-                "Moctezuma",
                 "Naco",
                 "Nácori Chico",
                 "Nacozari de García",
@@ -2275,15 +1928,12 @@
                 "Pitiquito",
                 "Puerto Peñasco",
                 "Quiriego",
-                "Rayón",
-                "Rosario",
                 "Sahuaripa",
                 "San Felipe de Jesús",
                 "San Javier",
                 "San Luis Río Colorado",
                 "San Miguel de Horcasitas",
                 "San Pedro de la Cueva",
-                "Santa Ana",
                 "Santa Cruz",
                 "Sáric",
                 "Soyopa",
@@ -2292,28 +1942,15 @@
                 "Trincheras",
                 "Tubutama",
                 "Ures",
-                "Villa Hidalgo",
                 "Villa Pesqueira",
                 "Yécora",
                 "General Plutarco Elías Calles",
-                "Benito Juárez",
                 "San Ignacio Río Muerto",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Tabasco",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Balancán",
-                "Cárdenas",
                 "Centla",
                 "Centro",
                 "Comalcalco",
                 "Cunduacán",
-                "Emiliano Zapata",
                 "Huimanguillo",
                 "Jalapa",
                 "Jalpa de Méndez",
@@ -2324,67 +1961,35 @@
                 "Tacotalpa",
                 "Teapa",
                 "Tenosique",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Tamaulipas",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Abasolo",
-                "Aldama",
                 "Altamira",
                 "Antiguo Morelos",
                 "Burgos",
-                "Bustamante",
-                "Camargo",
                 "Casas",
                 "Ciudad Madero",
                 "Cruillas",
-                "Gómez Farías",
                 "González",
                 "Güémez",
-                "Guerrero",
                 "Gustavo Díaz Ordaz",
-                "Hidalgo",
                 "Jaumave",
-                "Jiménez",
                 "Llera",
                 "Mainero",
                 "El Mante",
-                "Matamoros",
                 "Méndez",
                 "Mier",
                 "Miguel Alemán",
                 "Miquihuana",
                 "Nuevo Laredo",
                 "Nuevo Morelos",
-                "Ocampo",
                 "Padilla",
                 "Palmillas",
                 "Reynosa",
                 "Río Bravo",
                 "San Carlos",
-                "San Fernando",
-                "San Nicolás",
                 "Soto la Marina",
                 "Tampico",
                 "Tula",
                 "Valle Hermoso",
-                "Victoria",
-                "Villagrán",
                 "Xicoténcatl",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Tlaxcala",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Amaxac de Guerrero",
                 "Apetatitlán de Antonio Carvajal",
                 "Atlangatepec",
@@ -2411,14 +2016,12 @@
                 "Panotla",
                 "San Pablo del Monte",
                 "Santa Cruz Tlaxcala",
-                "Tenancingo",
                 "Teolocholco",
                 "Tepeyanco",
                 "Terrenate",
                 "Tetla de la Solidaridad",
                 "Tetlatlahuca",
                 "Tlaxcala",
-                "Tlaxco",
                 "Tocatlán",
                 "Totolac",
                 "Ziltlaltépec de Trinidad Sánchez Santos",
@@ -2429,9 +2032,6 @@
                 "Xicohtzinco",
                 "Yauhquemehcan",
                 "Zacatelco",
-                "Benito Juárez",
-                "Emiliano Zapata",
-                "Lázaro Cárdenas",
                 "La Magdalena Tlaltelulco",
                 "San Damián Texóloc",
                 "San Francisco Tetlanohcan",
@@ -2445,19 +2045,7 @@
                 "Santa Catarina Ayometla",
                 "Santa Cruz Quilehtla",
                 "Santa Isabel Xiloxoxtla",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Veracruz de Ignacio de la Llave",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Acajete",
-                "Acatlán",
                 "Acayucan",
-                "Actopan",
                 "Acula",
                 "Acultzingo",
                 "Camarón de Tejeda",
@@ -2471,16 +2059,13 @@
                 "Angel R. Cabada",
                 "La Antigua",
                 "Apazapan",
-                "Aquila",
                 "Astacinga",
                 "Atlahuilco",
-                "Atoyac",
                 "Atzacan",
                 "Atzalan",
                 "Tlaltetela",
                 "Ayahualulco",
                 "Banderilla",
-                "Benito Juárez",
                 "Boca del Río",
                 "Calcahualco",
                 "Camerino Z. Mendoza",
@@ -2491,7 +2076,6 @@
                 "Citlaltépetl",
                 "Coacoatzintla",
                 "Coahuitlán",
-                "Coatepec",
                 "Coatzacoalcos",
                 "Coatzintla",
                 "Coetzala",
@@ -2518,7 +2102,6 @@
                 "Chocamán",
                 "Chontla",
                 "Chumatlán",
-                "Emiliano Zapata",
                 "Espinal",
                 "Filomeno Mata",
                 "Fortín",
@@ -2546,12 +2129,10 @@
                 "Jamapa",
                 "Jesús Carranza",
                 "Xico",
-                "Jilotepec",
                 "Juan Rodríguez Clara",
                 "Juchique de Ferrer",
                 "Landero y Coss",
                 "Lerdo de Tejada",
-                "Magdalena",
                 "Maltrata",
                 "Manlio Fabio Altamirano",
                 "Mariano Escobedo",
@@ -2561,14 +2142,12 @@
                 "Medellín de Bravo",
                 "Miahuatlán",
                 "Las Minas",
-                "Minatitlán",
                 "Misantla",
                 "Mixtla de Altamirano",
                 "Moloacán",
                 "Naolinco",
                 "Naranjal",
                 "Nautla",
-                "Nogales",
                 "Oluta",
                 "Omealca",
                 "Orizaba",
@@ -2590,7 +2169,6 @@
                 "Puente Nacional",
                 "Rafael Delgado",
                 "Rafael Lucio",
-                "Los Reyes",
                 "Río Blanco",
                 "Saltabarranca",
                 "San Andrés Tenejapan",
@@ -2620,14 +2198,11 @@
                 "Teocelo",
                 "Tepatlaxco",
                 "Tepetlán",
-                "Tepetzintla",
-                "Tequila",
                 "José Azueta",
                 "Texcatepec",
                 "Texhuacán",
                 "Texistepec",
                 "Tezonapa",
-                "Tierra Blanca",
                 "Tihuatlán",
                 "Tlacojalpan",
                 "Tlacolulan",
@@ -2639,20 +2214,15 @@
                 "Tlapacoyan",
                 "Tlaquilpa",
                 "Tlilapan",
-                "Tomatlán",
                 "Tonayán",
                 "Totutla",
-                "Tuxpan",
                 "Tuxtilla",
                 "Ursulo Galván",
                 "Vega de Alatorre",
                 "Veracruz",
                 "Villa Aldama",
-                "Xoxocotla",
                 "Yanga",
                 "Yecuatla",
-                "Zacualpan",
-                "Zaragoza",
                 "Zentla",
                 "Zongolica",
                 "Zontecomatlán de López y Fuentes",
@@ -2666,15 +2236,6 @@
                 "Uxpanapa",
                 "San Rafael",
                 "Santiago Sochiapan",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Yucatán",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Abalá",
                 "Acanceh",
                 "Akil",
@@ -2733,13 +2294,11 @@
                 "Oxkutzcab",
                 "Panabá",
                 "Peto",
-                "Progreso",
                 "Quintana Roo",
                 "Río Lagartos",
                 "Sacalum",
                 "Samahil",
                 "Sanahcat",
-                "San Felipe",
                 "Santa Elena",
                 "Seyé",
                 "Sinanché",
@@ -2781,23 +2340,12 @@
                 "Yaxcabá",
                 "Yaxkukul",
                 "Yobaín",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Zacatecas",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Apozol",
                 "Apulco",
                 "Atolinga",
-                "Benito Juárez",
                 "Calera",
                 "Cañitas de Felipe Pescador",
                 "Concepción del Oro",
-                "Cuauhtémoc",
                 "Chalchihuites",
                 "Fresnillo",
                 "Trinidad García de la Cadena",
@@ -2806,27 +2354,22 @@
                 "General Francisco R. Murguía",
                 "El Plateado de Joaquín Amaro",
                 "General Pánfilo Natera",
-                "Guadalupe",
                 "Huanusco",
                 "Jalpa",
                 "Jerez",
                 "Jiménez del Teul",
                 "Juan Aldama",
                 "Juchipila",
-                "Loreto",
                 "Luis Moya",
                 "Mazapil",
-                "Melchor Ocampo",
                 "Mezquital del Oro",
                 "Miguel Auza",
                 "Momax",
                 "Monte Escobedo",
-                "Morelos",
                 "Moyahua de Estrada",
                 "Nochistlán de Mejía",
                 "Noria de Ángeles",
                 "Ojocaliente",
-                "Pánuco",
                 "Pinos",
                 "Río Grande",
                 "Sain Alto",
@@ -2843,11 +2386,37 @@
                 "Villa de Cos",
                 "Villa García",
                 "Villa González Ortega",
-                "Villa Hidalgo",
                 "Villanueva",
                 "Zacatecas",
                 "Trancoso",
                 "Santa María de la Paz",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Grupo de edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Menores de 18 años",
+                "De 18 años o más",
+                "Entre 12 y 29 años de edad",
+                "De 0 a 11 años y de 30 años o más",
+                "De 65 años o más",
+                "Menores de 65 años",
                 ""
               ]
             }

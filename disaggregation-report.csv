@@ -1,39 +1,41 @@
 Disaggregation,Number of indicators,Number of values
-Aguascalientes,2,11
-Baja California Sur,2,5
-Baja California,2,6
-Campeche,2,13
-Chiapas,2,124
-Chihuahua,2,67
-Ciudad de México,2,16
+Aguascalientes,1,11
+Baja California Sur,1,5
+Baja California,1,6
+Campeche,1,13
+Chiapas,1,124
+Chihuahua,1,67
+Ciudad de México,1,16
 Clasificación,1,7
-Coahuila de Zaragoza,2,38
-Colima,2,10
-Durango,2,39
+Coahuila de Zaragoza,1,38
+Colima,1,10
+Durango,1,39
 Entidad federativa,3,34
-Entidad_federativa,2,34
+Entidad_federativa,1,33
 Group,1,3
-Grupo de edad,2,6
-Guanajuato,2,46
-Guerrero,2,81
-Hidalgo,2,84
-Jalisco,2,125
-Michoacán de Ocampo,2,113
-Morelos,2,36
-México,2,125
-Nayarit,2,20
-Nuevo León,2,51
-Oaxaca,2,570
-Puebla,2,217
-Querétaro,2,18
-Quintana Roo,2,11
-San Luis Potosí,2,58
-Sexo,5,7
-Sinaloa,2,18
-Sonora,2,72
-Tabasco,2,17
-Tamaulipas,2,43
-Tlaxcala,2,60
-Veracruz de Ignacio de la Llave,2,212
-Yucatán,2,106
-Zacatecas,2,58
+Grupo de edad,2,12
+Guanajuato,1,46
+Guerrero,1,81
+Hidalgo,1,84
+Jalisco,1,125
+Michoacán de Ocampo,1,113
+Morelos,1,36
+Municipios,1,2329
+México,1,125
+Nayarit,1,20
+Nuevo León,1,51
+Oaxaca,1,570
+Puebla,1,217
+Querétaro,1,18
+Quintana Roo,1,11
+San Luis Potosí,1,58
+Sexo,4,7
+Sinaloa,1,18
+Sonora,1,72
+Tabasco,1,17
+Tamaulipas,1,43
+Tipo de servicio,1,2
+Tlaxcala,1,60
+Veracruz de Ignacio de la Llave,1,212
+Yucatán,1,106
+Zacatecas,1,58

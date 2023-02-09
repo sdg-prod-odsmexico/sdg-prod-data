@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Series",
+            "name": "Tipo de servicio",
             "type": "string",
             "constraints": {
               "enum": [
@@ -72,10 +72,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total a/",
+                "Total",
                 "Mujeres",
                 "Hombres",
-                "Total",
+                "Total/",
                 ""
               ]
             }

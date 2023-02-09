@@ -1,9 +1,9 @@
-Year,Series,Entidad federativa,Sexo,GeoCode,Value
-2021,Satisfacción con el servicio de educación pública obligatoria,Estados Unidos Mexicanos,Total a/,0,62.61441471
-2019,Satisfacción con el servicio de educación pública obligatoria,Estados Unidos Mexicanos,Total a/,0,60.33248111
-2017,Satisfacción con el servicio de educación pública obligatoria,Estados Unidos Mexicanos,Total a/,0,66.40743621
-2015,Satisfacción con el servicio de educación pública obligatoria,Estados Unidos Mexicanos,Total a/,0,68.28294711
-2013,Satisfacción con el servicio de educación pública obligatoria,Estados Unidos Mexicanos,Total a/,0,71.39652943
+Year,Tipo de servicio,Entidad federativa,Sexo,GeoCode,Value
+2021,Satisfacción con el servicio de educación pública obligatoria,Estados Unidos Mexicanos,Total,0,62.61441471
+2019,Satisfacción con el servicio de educación pública obligatoria,Estados Unidos Mexicanos,Total,0,60.33248111
+2017,Satisfacción con el servicio de educación pública obligatoria,Estados Unidos Mexicanos,Total,0,66.40743621
+2015,Satisfacción con el servicio de educación pública obligatoria,Estados Unidos Mexicanos,Total,0,68.28294711
+2013,Satisfacción con el servicio de educación pública obligatoria,Estados Unidos Mexicanos,Total,0,71.39652943
 2021,Satisfacción con el servicio de educación pública obligatoria,Estados Unidos Mexicanos,Mujeres,0,61.55190411
 2019,Satisfacción con el servicio de educación pública obligatoria,Estados Unidos Mexicanos,Mujeres,0,61.18979111
 2017,Satisfacción con el servicio de educación pública obligatoria,Estados Unidos Mexicanos,Mujeres,0,67.00311652
@@ -14,11 +14,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Estados Unidos Mexicanos,Hombres,0,66.74826646
 2015,Satisfacción con el servicio de educación pública obligatoria,Estados Unidos Mexicanos,Hombres,0,68.17105598
 2013,Satisfacción con el servicio de educación pública obligatoria,Estados Unidos Mexicanos,Hombres,0,71.25527004
-2021,Satisfacción con el servicio de educación pública obligatoria,Aguascalientes,Total a/,1,70.69371526
-2019,Satisfacción con el servicio de educación pública obligatoria,Aguascalientes,Total a/,1,73.45345895
-2017,Satisfacción con el servicio de educación pública obligatoria,Aguascalientes,Total a/,1,68.26324082
-2015,Satisfacción con el servicio de educación pública obligatoria,Aguascalientes,Total a/,1,74.5541855
-2013,Satisfacción con el servicio de educación pública obligatoria,Aguascalientes,Total a/,1,71.28009015
+2021,Satisfacción con el servicio de educación pública obligatoria,Aguascalientes,Total,1,70.69371526
+2019,Satisfacción con el servicio de educación pública obligatoria,Aguascalientes,Total,1,73.45345895
+2017,Satisfacción con el servicio de educación pública obligatoria,Aguascalientes,Total,1,68.26324082
+2015,Satisfacción con el servicio de educación pública obligatoria,Aguascalientes,Total,1,74.5541855
+2013,Satisfacción con el servicio de educación pública obligatoria,Aguascalientes,Total,1,71.28009015
 2021,Satisfacción con el servicio de educación pública obligatoria,Aguascalientes,Mujeres,1,66.72035086
 2019,Satisfacción con el servicio de educación pública obligatoria,Aguascalientes,Mujeres,1,66.71997917
 2017,Satisfacción con el servicio de educación pública obligatoria,Aguascalientes,Mujeres,1,67.84432907
@@ -29,11 +29,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Aguascalientes,Hombres,1,68.01632125
 2015,Satisfacción con el servicio de educación pública obligatoria,Aguascalientes,Hombres,1,75.6367139
 2013,Satisfacción con el servicio de educación pública obligatoria,Aguascalientes,Hombres,1,74.07643534
-2021,Satisfacción con el servicio de educación pública obligatoria,Baja California,Total a/,2,70.37756378
-2019,Satisfacción con el servicio de educación pública obligatoria,Baja California,Total a/,2,74.28596634
-2017,Satisfacción con el servicio de educación pública obligatoria,Baja California,Total a/,2,75.39276864
-2015,Satisfacción con el servicio de educación pública obligatoria,Baja California,Total a/,2,68.27026452
-2013,Satisfacción con el servicio de educación pública obligatoria,Baja California,Total a/,2,55.21143617
+2021,Satisfacción con el servicio de educación pública obligatoria,Baja California,Total,2,70.37756378
+2019,Satisfacción con el servicio de educación pública obligatoria,Baja California,Total,2,74.28596634
+2017,Satisfacción con el servicio de educación pública obligatoria,Baja California,Total,2,75.39276864
+2015,Satisfacción con el servicio de educación pública obligatoria,Baja California,Total,2,68.27026452
+2013,Satisfacción con el servicio de educación pública obligatoria,Baja California,Total,2,55.21143617
 2021,Satisfacción con el servicio de educación pública obligatoria,Baja California,Mujeres,2,75.6364499
 2019,Satisfacción con el servicio de educación pública obligatoria,Baja California,Mujeres,2,66.55424174
 2017,Satisfacción con el servicio de educación pública obligatoria,Baja California,Mujeres,2,78.10842497
@@ -44,11 +44,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Baja California,Hombres,2,76.88448683
 2015,Satisfacción con el servicio de educación pública obligatoria,Baja California,Hombres,2,70.34005375
 2013,Satisfacción con el servicio de educación pública obligatoria,Baja California,Hombres,2,56.26523265
-2021,Satisfacción con el servicio de educación pública obligatoria,Baja California_Sur,Total a/,3,70.54220851
-2019,Satisfacción con el servicio de educación pública obligatoria,Baja California_Sur,Total a/,3,75.61566638
-2017,Satisfacción con el servicio de educación pública obligatoria,Baja California_Sur,Total a/,3,80.01580715
-2015,Satisfacción con el servicio de educación pública obligatoria,Baja California_Sur,Total a/,3,84.84567185
-2013,Satisfacción con el servicio de educación pública obligatoria,Baja California_Sur,Total a/,3,72.17626203
+2021,Satisfacción con el servicio de educación pública obligatoria,Baja California_Sur,Total,3,70.54220851
+2019,Satisfacción con el servicio de educación pública obligatoria,Baja California_Sur,Total,3,75.61566638
+2017,Satisfacción con el servicio de educación pública obligatoria,Baja California_Sur,Total,3,80.01580715
+2015,Satisfacción con el servicio de educación pública obligatoria,Baja California_Sur,Total,3,84.84567185
+2013,Satisfacción con el servicio de educación pública obligatoria,Baja California_Sur,Total,3,72.17626203
 2021,Satisfacción con el servicio de educación pública obligatoria,Baja California_Sur,Mujeres,3,78.05043468
 2019,Satisfacción con el servicio de educación pública obligatoria,Baja California_Sur,Mujeres,3,71.29726839
 2017,Satisfacción con el servicio de educación pública obligatoria,Baja California_Sur,Mujeres,3,77.59785864
@@ -59,11 +59,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Baja California_Sur,Hombres,3,78.5684825
 2015,Satisfacción con el servicio de educación pública obligatoria,Baja California_Sur,Hombres,3,84.22444572
 2013,Satisfacción con el servicio de educación pública obligatoria,Baja California_Sur,Hombres,3,73.39198581
-2021,Satisfacción con el servicio de educación pública obligatoria,Campeche,Total a/,4,71.01213801
-2019,Satisfacción con el servicio de educación pública obligatoria,Campeche,Total a/,4,71.48889961
-2017,Satisfacción con el servicio de educación pública obligatoria,Campeche,Total a/,4,77.17457704
-2015,Satisfacción con el servicio de educación pública obligatoria,Campeche,Total a/,4,83.10480569
-2013,Satisfacción con el servicio de educación pública obligatoria,Campeche,Total a/,4,68.87856814
+2021,Satisfacción con el servicio de educación pública obligatoria,Campeche,Total,4,71.01213801
+2019,Satisfacción con el servicio de educación pública obligatoria,Campeche,Total,4,71.48889961
+2017,Satisfacción con el servicio de educación pública obligatoria,Campeche,Total,4,77.17457704
+2015,Satisfacción con el servicio de educación pública obligatoria,Campeche,Total,4,83.10480569
+2013,Satisfacción con el servicio de educación pública obligatoria,Campeche,Total,4,68.87856814
 2021,Satisfacción con el servicio de educación pública obligatoria,Campeche,Mujeres,4,62.89195992
 2019,Satisfacción con el servicio de educación pública obligatoria,Campeche,Mujeres,4,66.68646001
 2017,Satisfacción con el servicio de educación pública obligatoria,Campeche,Mujeres,4,81.03564346
@@ -74,11 +74,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Campeche,Hombres,4,79.46594394
 2015,Satisfacción con el servicio de educación pública obligatoria,Campeche,Hombres,4,77.82798005
 2013,Satisfacción con el servicio de educación pública obligatoria,Campeche,Hombres,4,72.29944093
-2021,Satisfacción con el servicio de educación pública obligatoria,Coahuila de Zaragoza,Total a/,5,83.04115749
-2019,Satisfacción con el servicio de educación pública obligatoria,Coahuila de Zaragoza,Total a/,5,58.32220813
-2017,Satisfacción con el servicio de educación pública obligatoria,Coahuila de Zaragoza,Total a/,5,70.97243056
-2015,Satisfacción con el servicio de educación pública obligatoria,Coahuila de Zaragoza,Total a/,5,75.04089422
-2013,Satisfacción con el servicio de educación pública obligatoria,Coahuila de Zaragoza,Total a/,5,72.70768138
+2021,Satisfacción con el servicio de educación pública obligatoria,Coahuila de Zaragoza,Total,5,83.04115749
+2019,Satisfacción con el servicio de educación pública obligatoria,Coahuila de Zaragoza,Total,5,58.32220813
+2017,Satisfacción con el servicio de educación pública obligatoria,Coahuila de Zaragoza,Total,5,70.97243056
+2015,Satisfacción con el servicio de educación pública obligatoria,Coahuila de Zaragoza,Total,5,75.04089422
+2013,Satisfacción con el servicio de educación pública obligatoria,Coahuila de Zaragoza,Total,5,72.70768138
 2021,Satisfacción con el servicio de educación pública obligatoria,Coahuila de Zaragoza,Mujeres,5,73.73919171
 2019,Satisfacción con el servicio de educación pública obligatoria,Coahuila de Zaragoza,Mujeres,5,72.2344332
 2017,Satisfacción con el servicio de educación pública obligatoria,Coahuila de Zaragoza,Mujeres,5,72.69299381
@@ -89,11 +89,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Coahuila de Zaragoza,Hombres,5,71.91689571
 2015,Satisfacción con el servicio de educación pública obligatoria,Coahuila de Zaragoza,Hombres,5,73.84819254
 2013,Satisfacción con el servicio de educación pública obligatoria,Coahuila de Zaragoza,Hombres,5,72.87798383
-2021,Satisfacción con el servicio de educación pública obligatoria,Colima,Total a/,6,72.5714967
-2019,Satisfacción con el servicio de educación pública obligatoria,Colima,Total a/,6,72.92839123
-2017,Satisfacción con el servicio de educación pública obligatoria,Colima,Total a/,6,79.47129982
-2015,Satisfacción con el servicio de educación pública obligatoria,Colima,Total a/,6,77.90754398
-2013,Satisfacción con el servicio de educación pública obligatoria,Colima,Total a/,6,79.36614657
+2021,Satisfacción con el servicio de educación pública obligatoria,Colima,Total,6,72.5714967
+2019,Satisfacción con el servicio de educación pública obligatoria,Colima,Total,6,72.92839123
+2017,Satisfacción con el servicio de educación pública obligatoria,Colima,Total/,6,79.47129982
+2015,Satisfacción con el servicio de educación pública obligatoria,Colima,Total,6,77.90754398
+2013,Satisfacción con el servicio de educación pública obligatoria,Colima,Total,6,79.36614657
 2021,Satisfacción con el servicio de educación pública obligatoria,Colima,Mujeres,6,71.33149088
 2019,Satisfacción con el servicio de educación pública obligatoria,Colima,Mujeres,6,72.7827594
 2017,Satisfacción con el servicio de educación pública obligatoria,Colima,Mujeres,6,78.10325515
@@ -104,11 +104,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Colima,Hombres,6,78.66859191
 2015,Satisfacción con el servicio de educación pública obligatoria,Colima,Hombres,6,80.57000706
 2013,Satisfacción con el servicio de educación pública obligatoria,Colima,Hombres,6,79.18822882
-2021,Satisfacción con el servicio de educación pública obligatoria,Chiapas,Total a/,7,46.84347294
-2019,Satisfacción con el servicio de educación pública obligatoria,Chiapas,Total a/,7,59.98702027
-2017,Satisfacción con el servicio de educación pública obligatoria,Chiapas,Total a/,7,54.48593875
-2015,Satisfacción con el servicio de educación pública obligatoria,Chiapas,Total a/,7,63.70582859
-2013,Satisfacción con el servicio de educación pública obligatoria,Chiapas,Total a/,7,75.85614446
+2021,Satisfacción con el servicio de educación pública obligatoria,Chiapas,Total,7,46.84347294
+2019,Satisfacción con el servicio de educación pública obligatoria,Chiapas,Total,7,59.98702027
+2017,Satisfacción con el servicio de educación pública obligatoria,Chiapas,Total,7,54.48593875
+2015,Satisfacción con el servicio de educación pública obligatoria,Chiapas,Total,7,63.70582859
+2013,Satisfacción con el servicio de educación pública obligatoria,Chiapas,Total,7,75.85614446
 2021,Satisfacción con el servicio de educación pública obligatoria,Chiapas,Mujeres,7,48.24058452
 2019,Satisfacción con el servicio de educación pública obligatoria,Chiapas,Mujeres,7,49.40361553
 2017,Satisfacción con el servicio de educación pública obligatoria,Chiapas,Mujeres,7,62.52767398
@@ -119,11 +119,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Chiapas,Hombres,7,59.09936657
 2015,Satisfacción con el servicio de educación pública obligatoria,Chiapas,Hombres,7,62.15887673
 2013,Satisfacción con el servicio de educación pública obligatoria,Chiapas,Hombres,7,75.02757619
-2021,Satisfacción con el servicio de educación pública obligatoria,Chihuahua,Total a/,8,80.91269841
-2019,Satisfacción con el servicio de educación pública obligatoria,Chihuahua,Total a/,8,65.26254458
-2017,Satisfacción con el servicio de educación pública obligatoria,Chihuahua,Total a/,8,74.48841164
-2015,Satisfacción con el servicio de educación pública obligatoria,Chihuahua,Total a/,8,77.63284868
-2013,Satisfacción con el servicio de educación pública obligatoria,Chihuahua,Total a/,8,81.40934514
+2021,Satisfacción con el servicio de educación pública obligatoria,Chihuahua,Total,8,80.91269841
+2019,Satisfacción con el servicio de educación pública obligatoria,Chihuahua,Total,8,65.26254458
+2017,Satisfacción con el servicio de educación pública obligatoria,Chihuahua,Total,8,74.48841164
+2015,Satisfacción con el servicio de educación pública obligatoria,Chihuahua,Total,8,77.63284868
+2013,Satisfacción con el servicio de educación pública obligatoria,Chihuahua,Total,8,81.40934514
 2021,Satisfacción con el servicio de educación pública obligatoria,Chihuahua,Mujeres,8,70.75994041
 2019,Satisfacción con el servicio de educación pública obligatoria,Chihuahua,Mujeres,8,61.35419461
 2017,Satisfacción con el servicio de educación pública obligatoria,Chihuahua,Mujeres,8,74.71952197
@@ -134,11 +134,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Chihuahua,Hombres,8,74.60952361
 2015,Satisfacción con el servicio de educación pública obligatoria,Chihuahua,Hombres,8,77.71192413
 2013,Satisfacción con el servicio de educación pública obligatoria,Chihuahua,Hombres,8,80.26237847
-2021,Satisfacción con el servicio de educación pública obligatoria,Ciudad de México,Total a/,9,53.39564033
-2019,Satisfacción con el servicio de educación pública obligatoria,Ciudad de México,Total a/,9,64.19814228
-2017,Satisfacción con el servicio de educación pública obligatoria,Ciudad de México,Total a/,9,60.62511416
-2015,Satisfacción con el servicio de educación pública obligatoria,Ciudad de México,Total a/,9,59.02859607
-2013,Satisfacción con el servicio de educación pública obligatoria,Ciudad de México,Total a/,9,66.65272832
+2021,Satisfacción con el servicio de educación pública obligatoria,Ciudad de México,Total,9,53.39564033
+2019,Satisfacción con el servicio de educación pública obligatoria,Ciudad de México,Total,9,64.19814228
+2017,Satisfacción con el servicio de educación pública obligatoria,Ciudad de México,Total,9,60.62511416
+2015,Satisfacción con el servicio de educación pública obligatoria,Ciudad de México,Total,9,59.02859607
+2013,Satisfacción con el servicio de educación pública obligatoria,Ciudad de México,Total,9,66.65272832
 2021,Satisfacción con el servicio de educación pública obligatoria,Ciudad de México,Mujeres,9,55.96816285
 2019,Satisfacción con el servicio de educación pública obligatoria,Ciudad de México,Mujeres,9,58.11435056
 2017,Satisfacción con el servicio de educación pública obligatoria,Ciudad de México,Mujeres,9,58.49547672
@@ -149,11 +149,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Ciudad de México,Hombres,9,59.37177042
 2015,Satisfacción con el servicio de educación pública obligatoria,Ciudad de México,Hombres,9,59.3584487
 2013,Satisfacción con el servicio de educación pública obligatoria,Ciudad de México,Hombres,9,68.0078302
-2021,Satisfacción con el servicio de educación pública obligatoria,Durango,Total a/,10,82.78817872
-2019,Satisfacción con el servicio de educación pública obligatoria,Durango,Total a/,10,64.33651302
-2017,Satisfacción con el servicio de educación pública obligatoria,Durango,Total a/,10,67.61879901
-2015,Satisfacción con el servicio de educación pública obligatoria,Durango,Total a/,10,75.62400982
-2013,Satisfacción con el servicio de educación pública obligatoria,Durango,Total a/,10,72.69212033
+2021,Satisfacción con el servicio de educación pública obligatoria,Durango,Total,10,82.78817872
+2019,Satisfacción con el servicio de educación pública obligatoria,Durango,Total,10,64.33651302
+2017,Satisfacción con el servicio de educación pública obligatoria,Durango,Total,10,67.61879901
+2015,Satisfacción con el servicio de educación pública obligatoria,Durango,Total,10,75.62400982
+2013,Satisfacción con el servicio de educación pública obligatoria,Durango,Total,10,72.69212033
 2021,Satisfacción con el servicio de educación pública obligatoria,Durango,Mujeres,10,82.02525781
 2019,Satisfacción con el servicio de educación pública obligatoria,Durango,Mujeres,10,75.32993064
 2017,Satisfacción con el servicio de educación pública obligatoria,Durango,Mujeres,10,74.43619237
@@ -164,11 +164,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Durango,Hombres,10,71.51055827
 2015,Satisfacción con el servicio de educación pública obligatoria,Durango,Hombres,10,77.2551631
 2013,Satisfacción con el servicio de educación pública obligatoria,Durango,Hombres,10,77.46632312
-2021,Satisfacción con el servicio de educación pública obligatoria,Guanajuato,Total a/,11,55.54190794
-2019,Satisfacción con el servicio de educación pública obligatoria,Guanajuato,Total a/,11,54.4311051
-2017,Satisfacción con el servicio de educación pública obligatoria,Guanajuato,Total a/,11,75.08898128
-2015,Satisfacción con el servicio de educación pública obligatoria,Guanajuato,Total a/,11,74.77826837
-2013,Satisfacción con el servicio de educación pública obligatoria,Guanajuato,Total a/,11,71.61072631
+2021,Satisfacción con el servicio de educación pública obligatoria,Guanajuato,Total,11,55.54190794
+2019,Satisfacción con el servicio de educación pública obligatoria,Guanajuato,Total,11,54.4311051
+2017,Satisfacción con el servicio de educación pública obligatoria,Guanajuato,Total,11,75.08898128
+2015,Satisfacción con el servicio de educación pública obligatoria,Guanajuato,Total,11,74.77826837
+2013,Satisfacción con el servicio de educación pública obligatoria,Guanajuato,Total,11,71.61072631
 2021,Satisfacción con el servicio de educación pública obligatoria,Guanajuato,Mujeres,11,60.29815012
 2019,Satisfacción con el servicio de educación pública obligatoria,Guanajuato,Mujeres,11,68.58873001
 2017,Satisfacción con el servicio de educación pública obligatoria,Guanajuato,Mujeres,11,73.97478498
@@ -179,11 +179,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Guanajuato,Hombres,11,74.43032222
 2015,Satisfacción con el servicio de educación pública obligatoria,Guanajuato,Hombres,11,70.21706576
 2013,Satisfacción con el servicio de educación pública obligatoria,Guanajuato,Hombres,11,78.01054206
-2021,Satisfacción con el servicio de educación pública obligatoria,Guerrero,Total a/,12,39.27955775
-2019,Satisfacción con el servicio de educación pública obligatoria,Guerrero,Total a/,12,51.93330055
-2017,Satisfacción con el servicio de educación pública obligatoria,Guerrero,Total a/,12,62.72920056
-2015,Satisfacción con el servicio de educación pública obligatoria,Guerrero,Total a/,12,67.58506474
-2013,Satisfacción con el servicio de educación pública obligatoria,Guerrero,Total a/,12,65.75875486
+2021,Satisfacción con el servicio de educación pública obligatoria,Guerrero,Total,12,39.27955775
+2019,Satisfacción con el servicio de educación pública obligatoria,Guerrero,Total,12,51.93330055
+2017,Satisfacción con el servicio de educación pública obligatoria,Guerrero,Total,12,62.72920056
+2015,Satisfacción con el servicio de educación pública obligatoria,Guerrero,Total,12,67.58506474
+2013,Satisfacción con el servicio de educación pública obligatoria,Guerrero,Total,12,65.75875486
 2021,Satisfacción con el servicio de educación pública obligatoria,Guerrero,Mujeres,12,57.31728301
 2019,Satisfacción con el servicio de educación pública obligatoria,Guerrero,Mujeres,12,53.94087748
 2017,Satisfacción con el servicio de educación pública obligatoria,Guerrero,Mujeres,12,64.18569454
@@ -194,11 +194,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Guerrero,Hombres,12,63.59399775
 2015,Satisfacción con el servicio de educación pública obligatoria,Guerrero,Hombres,12,63.59888309
 2013,Satisfacción con el servicio de educación pública obligatoria,Guerrero,Hombres,12,67.25671441
-2021,Satisfacción con el servicio de educación pública obligatoria,Hidalgo,Total a/,13,55.94986545
-2019,Satisfacción con el servicio de educación pública obligatoria,Hidalgo,Total a/,13,61.35267762
-2017,Satisfacción con el servicio de educación pública obligatoria,Hidalgo,Total a/,13,69.4826114
-2015,Satisfacción con el servicio de educación pública obligatoria,Hidalgo,Total a/,13,79.14437539
-2013,Satisfacción con el servicio de educación pública obligatoria,Hidalgo,Total a/,13,64.6193655
+2021,Satisfacción con el servicio de educación pública obligatoria,Hidalgo,Total,13,55.94986545
+2019,Satisfacción con el servicio de educación pública obligatoria,Hidalgo,Total,13,61.35267762
+2017,Satisfacción con el servicio de educación pública obligatoria,Hidalgo,Total,13,69.4826114
+2015,Satisfacción con el servicio de educación pública obligatoria,Hidalgo,Total,13,79.14437539
+2013,Satisfacción con el servicio de educación pública obligatoria,Hidalgo,Total,13,64.6193655
 2021,Satisfacción con el servicio de educación pública obligatoria,Hidalgo,Mujeres,13,68.63608482
 2019,Satisfacción con el servicio de educación pública obligatoria,Hidalgo,Mujeres,13,59.84516129
 2017,Satisfacción con el servicio de educación pública obligatoria,Hidalgo,Mujeres,13,69.00746436
@@ -209,11 +209,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Hidalgo,Hombres,13,69.20684039
 2015,Satisfacción con el servicio de educación pública obligatoria,Hidalgo,Hombres,13,68.41805017
 2013,Satisfacción con el servicio de educación pública obligatoria,Hidalgo,Hombres,13,73.14857758
-2021,Satisfacción con el servicio de educación pública obligatoria,Jalisco,Total a/,14,59.36488187
-2019,Satisfacción con el servicio de educación pública obligatoria,Jalisco,Total a/,14,68.35059559
-2017,Satisfacción con el servicio de educación pública obligatoria,Jalisco,Total a/,14,61.87559483
-2015,Satisfacción con el servicio de educación pública obligatoria,Jalisco,Total a/,14,77.58221951
-2013,Satisfacción con el servicio de educación pública obligatoria,Jalisco,Total a/,14,75.87483193
+2021,Satisfacción con el servicio de educación pública obligatoria,Jalisco,Total,14,59.36488187
+2019,Satisfacción con el servicio de educación pública obligatoria,Jalisco,Total,14,68.35059559
+2017,Satisfacción con el servicio de educación pública obligatoria,Jalisco,Total,14,61.87559483
+2015,Satisfacción con el servicio de educación pública obligatoria,Jalisco,Total,14,77.58221951
+2013,Satisfacción con el servicio de educación pública obligatoria,Jalisco,Total,14,75.87483193
 2021,Satisfacción con el servicio de educación pública obligatoria,Jalisco,Mujeres,14,65.52173305
 2019,Satisfacción con el servicio de educación pública obligatoria,Jalisco,Mujeres,14,63.77616343
 2017,Satisfacción con el servicio de educación pública obligatoria,Jalisco,Mujeres,14,71.63736091
@@ -224,11 +224,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Jalisco,Hombres,14,67.82416553
 2015,Satisfacción con el servicio de educación pública obligatoria,Jalisco,Hombres,14,70.9527058
 2013,Satisfacción con el servicio de educación pública obligatoria,Jalisco,Hombres,14,74.01864236
-2021,Satisfacción con el servicio de educación pública obligatoria,México,Total a/,15,66.18025719
-2019,Satisfacción con el servicio de educación pública obligatoria,México,Total a/,15,47.9328962
-2017,Satisfacción con el servicio de educación pública obligatoria,México,Total a/,15,59.22861936
-2015,Satisfacción con el servicio de educación pública obligatoria,México,Total a/,15,64.24919261
-2013,Satisfacción con el servicio de educación pública obligatoria,México,Total a/,15,76.33726738
+2021,Satisfacción con el servicio de educación pública obligatoria,México,Total,15,66.18025719
+2019,Satisfacción con el servicio de educación pública obligatoria,México,Total,15,47.9328962
+2017,Satisfacción con el servicio de educación pública obligatoria,México,Total,15,59.22861936
+2015,Satisfacción con el servicio de educación pública obligatoria,México,Total,15,64.24919261
+2013,Satisfacción con el servicio de educación pública obligatoria,México,Total,15,76.33726738
 2021,Satisfacción con el servicio de educación pública obligatoria,México,Mujeres,15,57.30850346
 2019,Satisfacción con el servicio de educación pública obligatoria,México,Mujeres,15,54.72934722
 2017,Satisfacción con el servicio de educación pública obligatoria,México,Mujeres,15,60.92891888
@@ -239,11 +239,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,México,Hombres,15,60.20548714
 2015,Satisfacción con el servicio de educación pública obligatoria,México,Hombres,15,65.36917441
 2013,Satisfacción con el servicio de educación pública obligatoria,México,Hombres,15,73.77774586
-2021,Satisfacción con el servicio de educación pública obligatoria,Michoacán de Ocampo,Total a/,16,45.7345043
-2019,Satisfacción con el servicio de educación pública obligatoria,Michoacán de Ocampo,Total a/,16,39.51511146
-2017,Satisfacción con el servicio de educación pública obligatoria,Michoacán de Ocampo,Total a/,16,47.43480302
-2015,Satisfacción con el servicio de educación pública obligatoria,Michoacán de Ocampo,Total a/,16,57.85916169
-2013,Satisfacción con el servicio de educación pública obligatoria,Michoacán de Ocampo,Total a/,16,59.89289172
+2021,Satisfacción con el servicio de educación pública obligatoria,Michoacán de Ocampo,Total,16,45.7345043
+2019,Satisfacción con el servicio de educación pública obligatoria,Michoacán de Ocampo,Total,16,39.51511146
+2017,Satisfacción con el servicio de educación pública obligatoria,Michoacán de Ocampo,Total,16,47.43480302
+2015,Satisfacción con el servicio de educación pública obligatoria,Michoacán de Ocampo,Total,16,57.85916169
+2013,Satisfacción con el servicio de educación pública obligatoria,Michoacán de Ocampo,Total,16,59.89289172
 2021,Satisfacción con el servicio de educación pública obligatoria,Michoacán de Ocampo,Mujeres,16,40.38322515
 2019,Satisfacción con el servicio de educación pública obligatoria,Michoacán de Ocampo,Mujeres,16,50.01485083
 2017,Satisfacción con el servicio de educación pública obligatoria,Michoacán de Ocampo,Mujeres,16,59.96941671
@@ -254,11 +254,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Michoacán de Ocampo,Hombres,16,54.53114511
 2015,Satisfacción con el servicio de educación pública obligatoria,Michoacán de Ocampo,Hombres,16,57.51143911
 2013,Satisfacción con el servicio de educación pública obligatoria,Michoacán de Ocampo,Hombres,16,59.47417765
-2021,Satisfacción con el servicio de educación pública obligatoria,Morelos,Total a/,17,62.18396458
-2019,Satisfacción con el servicio de educación pública obligatoria,Morelos,Total a/,17,62.7024037
-2017,Satisfacción con el servicio de educación pública obligatoria,Morelos,Total a/,17,65.56125434
-2015,Satisfacción con el servicio de educación pública obligatoria,Morelos,Total a/,17,62.58089075
-2013,Satisfacción con el servicio de educación pública obligatoria,Morelos,Total a/,17,62.73769517
+2021,Satisfacción con el servicio de educación pública obligatoria,Morelos,Total,17,62.18396458
+2019,Satisfacción con el servicio de educación pública obligatoria,Morelos,Total,17,62.7024037
+2017,Satisfacción con el servicio de educación pública obligatoria,Morelos,Total,17,65.56125434
+2015,Satisfacción con el servicio de educación pública obligatoria,Morelos,Total,17,62.58089075
+2013,Satisfacción con el servicio de educación pública obligatoria,Morelos,Total,17,62.73769517
 2021,Satisfacción con el servicio de educación pública obligatoria,Morelos,Mujeres,17,67.52019552
 2019,Satisfacción con el servicio de educación pública obligatoria,Morelos,Mujeres,17,53.42788017
 2017,Satisfacción con el servicio de educación pública obligatoria,Morelos,Mujeres,17,64.50074607
@@ -269,11 +269,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Morelos,Hombres,17,64.96839661
 2015,Satisfacción con el servicio de educación pública obligatoria,Morelos,Hombres,17,66.04292875
 2013,Satisfacción con el servicio de educación pública obligatoria,Morelos,Hombres,17,65.12608212
-2021,Satisfacción con el servicio de educación pública obligatoria,Nayarit,Total a/,18,73.47695439
-2019,Satisfacción con el servicio de educación pública obligatoria,Nayarit,Total a/,18,69.04322767
-2017,Satisfacción con el servicio de educación pública obligatoria,Nayarit,Total a/,18,76.10995472
-2015,Satisfacción con el servicio de educación pública obligatoria,Nayarit,Total a/,18,75.14228227
-2013,Satisfacción con el servicio de educación pública obligatoria,Nayarit,Total a/,18,77.21304779
+2021,Satisfacción con el servicio de educación pública obligatoria,Nayarit,Total,18,73.47695439
+2019,Satisfacción con el servicio de educación pública obligatoria,Nayarit,Total,18,69.04322767
+2017,Satisfacción con el servicio de educación pública obligatoria,Nayarit,Total,18,76.10995472
+2015,Satisfacción con el servicio de educación pública obligatoria,Nayarit,Total,18,75.14228227
+2013,Satisfacción con el servicio de educación pública obligatoria,Nayarit,Total,18,77.21304779
 2021,Satisfacción con el servicio de educación pública obligatoria,Nayarit,Mujeres,18,76.17347233
 2019,Satisfacción con el servicio de educación pública obligatoria,Nayarit,Mujeres,18,71.71562543
 2017,Satisfacción con el servicio de educación pública obligatoria,Nayarit,Mujeres,18,80.23780155
@@ -284,11 +284,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Nayarit,Hombres,18,78.23515939
 2015,Satisfacción con el servicio de educación pública obligatoria,Nayarit,Hombres,18,74.93975637
 2013,Satisfacción con el servicio de educación pública obligatoria,Nayarit,Hombres,18,74.43813872
-2021,Satisfacción con el servicio de educación pública obligatoria,Nuevo León,Total a/,19,76.34583424
-2019,Satisfacción con el servicio de educación pública obligatoria,Nuevo León,Total a/,19,69.86918222
-2017,Satisfacción con el servicio de educación pública obligatoria,Nuevo León,Total a/,19,74.69796729
-2015,Satisfacción con el servicio de educación pública obligatoria,Nuevo León,Total a/,19,67.85161638
-2013,Satisfacción con el servicio de educación pública obligatoria,Nuevo León,Total a/,19,71.41736969
+2021,Satisfacción con el servicio de educación pública obligatoria,Nuevo León,Total,19,76.34583424
+2019,Satisfacción con el servicio de educación pública obligatoria,Nuevo León,Total,19,69.86918222
+2017,Satisfacción con el servicio de educación pública obligatoria,Nuevo León,Total,19,74.69796729
+2015,Satisfacción con el servicio de educación pública obligatoria,Nuevo León,Total,19,67.85161638
+2013,Satisfacción con el servicio de educación pública obligatoria,Nuevo León,Total,19,71.41736969
 2021,Satisfacción con el servicio de educación pública obligatoria,Nuevo León,Mujeres,19,69.47090904
 2019,Satisfacción con el servicio de educación pública obligatoria,Nuevo León,Mujeres,19,67.31634496
 2017,Satisfacción con el servicio de educación pública obligatoria,Nuevo León,Mujeres,19,72.49752792
@@ -299,11 +299,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Nuevo León,Hombres,19,73.45941324
 2015,Satisfacción con el servicio de educación pública obligatoria,Nuevo León,Hombres,19,75.41391789
 2013,Satisfacción con el servicio de educación pública obligatoria,Nuevo León,Hombres,19,72.24346166
-2021,Satisfacción con el servicio de educación pública obligatoria,Oaxaca,Total a/,20,37.574145
-2019,Satisfacción con el servicio de educación pública obligatoria,Oaxaca,Total a/,20,45.01047391
-2017,Satisfacción con el servicio de educación pública obligatoria,Oaxaca,Total a/,20,57.31305819
-2015,Satisfacción con el servicio de educación pública obligatoria,Oaxaca,Total a/,20,57.32517598
-2013,Satisfacción con el servicio de educación pública obligatoria,Oaxaca,Total a/,20,56.83513987
+2021,Satisfacción con el servicio de educación pública obligatoria,Oaxaca,Total,20,37.574145
+2019,Satisfacción con el servicio de educación pública obligatoria,Oaxaca,Total,20,45.01047391
+2017,Satisfacción con el servicio de educación pública obligatoria,Oaxaca,Total,20,57.31305819
+2015,Satisfacción con el servicio de educación pública obligatoria,Oaxaca,Total,20,57.32517598
+2013,Satisfacción con el servicio de educación pública obligatoria,Oaxaca,Total,20,56.83513987
 2021,Satisfacción con el servicio de educación pública obligatoria,Oaxaca,Mujeres,20,51.49044342
 2019,Satisfacción con el servicio de educación pública obligatoria,Oaxaca,Mujeres,20,44.97829935
 2017,Satisfacción con el servicio de educación pública obligatoria,Oaxaca,Mujeres,20,64.64254953
@@ -314,11 +314,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Oaxaca,Hombres,20,61.46866311
 2015,Satisfacción con el servicio de educación pública obligatoria,Oaxaca,Hombres,20,53.31411238
 2013,Satisfacción con el servicio de educación pública obligatoria,Oaxaca,Hombres,20,59.0546925
-2021,Satisfacción con el servicio de educación pública obligatoria,Puebla,Total a/,21,41.60982051
-2019,Satisfacción con el servicio de educación pública obligatoria,Puebla,Total a/,21,52.10516331
-2017,Satisfacción con el servicio de educación pública obligatoria,Puebla,Total a/,21,70.52178463
-2015,Satisfacción con el servicio de educación pública obligatoria,Puebla,Total a/,21,59.04807108
-2013,Satisfacción con el servicio de educación pública obligatoria,Puebla,Total a/,21,64.12203885
+2021,Satisfacción con el servicio de educación pública obligatoria,Puebla,Total,21,41.60982051
+2019,Satisfacción con el servicio de educación pública obligatoria,Puebla,Total,21,52.10516331
+2017,Satisfacción con el servicio de educación pública obligatoria,Puebla,Total,21,70.52178463
+2015,Satisfacción con el servicio de educación pública obligatoria,Puebla,Total,21,59.04807108
+2013,Satisfacción con el servicio de educación pública obligatoria,Puebla,Total,21,64.12203885
 2021,Satisfacción con el servicio de educación pública obligatoria,Puebla,Mujeres,21,45.20946178
 2019,Satisfacción con el servicio de educación pública obligatoria,Puebla,Mujeres,21,51.4073595
 2017,Satisfacción con el servicio de educación pública obligatoria,Puebla,Mujeres,21,63.56103299
@@ -329,11 +329,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Puebla,Hombres,21,66.51718531
 2015,Satisfacción con el servicio de educación pública obligatoria,Puebla,Hombres,21,57.43309805
 2013,Satisfacción con el servicio de educación pública obligatoria,Puebla,Hombres,21,64.29425169
-2021,Satisfacción con el servicio de educación pública obligatoria,Querétaro,Total a/,22,48.76949587
-2019,Satisfacción con el servicio de educación pública obligatoria,Querétaro,Total a/,22,52.51030171
-2017,Satisfacción con el servicio de educación pública obligatoria,Querétaro,Total a/,22,64.018234
-2015,Satisfacción con el servicio de educación pública obligatoria,Querétaro,Total a/,22,65.69216326
-2013,Satisfacción con el servicio de educación pública obligatoria,Querétaro,Total a/,22,55.36224057
+2021,Satisfacción con el servicio de educación pública obligatoria,Querétaro,Total,22,48.76949587
+2019,Satisfacción con el servicio de educación pública obligatoria,Querétaro,Total,22,52.51030171
+2017,Satisfacción con el servicio de educación pública obligatoria,Querétaro,Total,22,64.018234
+2015,Satisfacción con el servicio de educación pública obligatoria,Querétaro,Total,22,65.69216326
+2013,Satisfacción con el servicio de educación pública obligatoria,Querétaro,Total,22,55.36224057
 2021,Satisfacción con el servicio de educación pública obligatoria,Querétaro,Mujeres,22,63.74523093
 2019,Satisfacción con el servicio de educación pública obligatoria,Querétaro,Mujeres,22,48.27966917
 2017,Satisfacción con el servicio de educación pública obligatoria,Querétaro,Mujeres,22,65.31142344
@@ -344,11 +344,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Querétaro,Hombres,22,64.78018828
 2015,Satisfacción con el servicio de educación pública obligatoria,Querétaro,Hombres,22,67.9131183
 2013,Satisfacción con el servicio de educación pública obligatoria,Querétaro,Hombres,22,56.85433543
-2021,Satisfacción con el servicio de educación pública obligatoria,Quintana Roo,Total a/,23,54.1316895
-2019,Satisfacción con el servicio de educación pública obligatoria,Quintana Roo,Total a/,23,64.75794689
-2017,Satisfacción con el servicio de educación pública obligatoria,Quintana Roo,Total a/,23,60.31051062
-2015,Satisfacción con el servicio de educación pública obligatoria,Quintana Roo,Total a/,23,78.23919884
-2013,Satisfacción con el servicio de educación pública obligatoria,Quintana Roo,Total a/,23,61.44048993
+2021,Satisfacción con el servicio de educación pública obligatoria,Quintana Roo,Total,23,54.1316895
+2019,Satisfacción con el servicio de educación pública obligatoria,Quintana Roo,Total,23,64.75794689
+2017,Satisfacción con el servicio de educación pública obligatoria,Quintana Roo,Total,23,60.31051062
+2015,Satisfacción con el servicio de educación pública obligatoria,Quintana Roo,Total,23,78.23919884
+2013,Satisfacción con el servicio de educación pública obligatoria,Quintana Roo,Total,23,61.44048993
 2021,Satisfacción con el servicio de educación pública obligatoria,Quintana Roo,Mujeres,23,51.88640013
 2019,Satisfacción con el servicio de educación pública obligatoria,Quintana Roo,Mujeres,23,66.8401573
 2017,Satisfacción con el servicio de educación pública obligatoria,Quintana Roo,Mujeres,23,56.53049504
@@ -359,11 +359,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Quintana Roo,Hombres,23,58.27300419
 2015,Satisfacción con el servicio de educación pública obligatoria,Quintana Roo,Hombres,23,72.66711497
 2013,Satisfacción con el servicio de educación pública obligatoria,Quintana Roo,Hombres,23,66.11411275
-2021,Satisfacción con el servicio de educación pública obligatoria,San Luis Potosí,Total a/,24,47.24251419
-2019,Satisfacción con el servicio de educación pública obligatoria,San Luis Potosí,Total a/,24,75.52249284
-2017,Satisfacción con el servicio de educación pública obligatoria,San Luis Potosí,Total a/,24,64.06920166
-2015,Satisfacción con el servicio de educación pública obligatoria,San Luis Potosí,Total a/,24,68.96599068
-2013,Satisfacción con el servicio de educación pública obligatoria,San Luis Potosí,Total a/,24,73.34460254
+2021,Satisfacción con el servicio de educación pública obligatoria,San Luis Potosí,Total,24,47.24251419
+2019,Satisfacción con el servicio de educación pública obligatoria,San Luis Potosí,Total,24,75.52249284
+2017,Satisfacción con el servicio de educación pública obligatoria,San Luis Potosí,Total,24,64.06920166
+2015,Satisfacción con el servicio de educación pública obligatoria,San Luis Potosí,Total,24,68.96599068
+2013,Satisfacción con el servicio de educación pública obligatoria,San Luis Potosí,Total,24,73.34460254
 2021,Satisfacción con el servicio de educación pública obligatoria,San Luis Potosí,Mujeres,24,47.51050137
 2019,Satisfacción con el servicio de educación pública obligatoria,San Luis Potosí,Mujeres,24,58.74802426
 2017,Satisfacción con el servicio de educación pública obligatoria,San Luis Potosí,Mujeres,24,68.67475807
@@ -374,11 +374,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,San Luis Potosí,Hombres,24,66.97498293
 2015,Satisfacción con el servicio de educación pública obligatoria,San Luis Potosí,Hombres,24,66.31377664
 2013,Satisfacción con el servicio de educación pública obligatoria,San Luis Potosí,Hombres,24,76.72950473
-2021,Satisfacción con el servicio de educación pública obligatoria,Sinaloa,Total a/,25,71.45753159
-2019,Satisfacción con el servicio de educación pública obligatoria,Sinaloa,Total a/,25,65.94449791
-2017,Satisfacción con el servicio de educación pública obligatoria,Sinaloa,Total a/,25,87.30345601
-2015,Satisfacción con el servicio de educación pública obligatoria,Sinaloa,Total a/,25,77.58952131
-2013,Satisfacción con el servicio de educación pública obligatoria,Sinaloa,Total a/,25,75.03260156
+2021,Satisfacción con el servicio de educación pública obligatoria,Sinaloa,Total,25,71.45753159
+2019,Satisfacción con el servicio de educación pública obligatoria,Sinaloa,Total,25,65.94449791
+2017,Satisfacción con el servicio de educación pública obligatoria,Sinaloa,Total,25,87.30345601
+2015,Satisfacción con el servicio de educación pública obligatoria,Sinaloa,Total,25,77.58952131
+2013,Satisfacción con el servicio de educación pública obligatoria,Sinaloa,Total,25,75.03260156
 2021,Satisfacción con el servicio de educación pública obligatoria,Sinaloa,Mujeres,25,75.61343267
 2019,Satisfacción con el servicio de educación pública obligatoria,Sinaloa,Mujeres,25,77.69747051
 2017,Satisfacción con el servicio de educación pública obligatoria,Sinaloa,Mujeres,25,82.07740394
@@ -389,11 +389,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Sinaloa,Hombres,25,84.18352725
 2015,Satisfacción con el servicio de educación pública obligatoria,Sinaloa,Hombres,25,75.71900924
 2013,Satisfacción con el servicio de educación pública obligatoria,Sinaloa,Hombres,25,74.52944191
-2021,Satisfacción con el servicio de educación pública obligatoria,Sonora,Total a/,26,70.90316379
-2019,Satisfacción con el servicio de educación pública obligatoria,Sonora,Total a/,26,77.65357118
-2017,Satisfacción con el servicio de educación pública obligatoria,Sonora,Total a/,26,78.59656567
-2015,Satisfacción con el servicio de educación pública obligatoria,Sonora,Total a/,26,77.43887307
-2013,Satisfacción con el servicio de educación pública obligatoria,Sonora,Total a/,26,71.49745009
+2021,Satisfacción con el servicio de educación pública obligatoria,Sonora,Total,26,70.90316379
+2019,Satisfacción con el servicio de educación pública obligatoria,Sonora,Total,26,77.65357118
+2017,Satisfacción con el servicio de educación pública obligatoria,Sonora,Total,26,78.59656567
+2015,Satisfacción con el servicio de educación pública obligatoria,Sonora,Total,26,77.43887307
+2013,Satisfacción con el servicio de educación pública obligatoria,Sonora,Total,26,71.49745009
 2021,Satisfacción con el servicio de educación pública obligatoria,Sonora,Mujeres,26,73.82828936
 2019,Satisfacción con el servicio de educación pública obligatoria,Sonora,Mujeres,26,69.74480471
 2017,Satisfacción con el servicio de educación pública obligatoria,Sonora,Mujeres,26,74.72301974
@@ -404,11 +404,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Sonora,Hombres,26,76.34607642
 2015,Satisfacción con el servicio de educación pública obligatoria,Sonora,Hombres,26,79.09548381
 2013,Satisfacción con el servicio de educación pública obligatoria,Sonora,Hombres,26,71.10908438
-2021,Satisfacción con el servicio de educación pública obligatoria,Tabasco,Total a/,27,52.17512614
-2019,Satisfacción con el servicio de educación pública obligatoria,Tabasco,Total a/,27,43.2291122
-2017,Satisfacción con el servicio de educación pública obligatoria,Tabasco,Total a/,27,57.42715705
-2015,Satisfacción con el servicio de educación pública obligatoria,Tabasco,Total a/,27,57.06927217
-2013,Satisfacción con el servicio de educación pública obligatoria,Tabasco,Total a/,27,69.72534954
+2021,Satisfacción con el servicio de educación pública obligatoria,Tabasco,Total,27,52.17512614
+2019,Satisfacción con el servicio de educación pública obligatoria,Tabasco,Total,27,43.2291122
+2017,Satisfacción con el servicio de educación pública obligatoria,Tabasco,Total,27,57.42715705
+2015,Satisfacción con el servicio de educación pública obligatoria,Tabasco,Total,27,57.06927217
+2013,Satisfacción con el servicio de educación pública obligatoria,Tabasco,Total,27,69.72534954
 2021,Satisfacción con el servicio de educación pública obligatoria,Tabasco,Mujeres,27,57.03981109
 2019,Satisfacción con el servicio de educación pública obligatoria,Tabasco,Mujeres,27,46.84308474
 2017,Satisfacción con el servicio de educación pública obligatoria,Tabasco,Mujeres,27,63.6043956
@@ -419,11 +419,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Tabasco,Hombres,27,61.34863632
 2015,Satisfacción con el servicio de educación pública obligatoria,Tabasco,Hombres,27,52.46689159
 2013,Satisfacción con el servicio de educación pública obligatoria,Tabasco,Hombres,27,67.82663634
-2021,Satisfacción con el servicio de educación pública obligatoria,Tamaulipas,Total a/,28,65.46953299
-2019,Satisfacción con el servicio de educación pública obligatoria,Tamaulipas,Total a/,28,59.61538462
-2017,Satisfacción con el servicio de educación pública obligatoria,Tamaulipas,Total a/,28,68.92954538
-2015,Satisfacción con el servicio de educación pública obligatoria,Tamaulipas,Total a/,28,73.53581568
-2013,Satisfacción con el servicio de educación pública obligatoria,Tamaulipas,Total a/,28,73.21756613
+2021,Satisfacción con el servicio de educación pública obligatoria,Tamaulipas,Total,28,65.46953299
+2019,Satisfacción con el servicio de educación pública obligatoria,Tamaulipas,Total,28,59.61538462
+2017,Satisfacción con el servicio de educación pública obligatoria,Tamaulipas,Total,28,68.92954538
+2015,Satisfacción con el servicio de educación pública obligatoria,Tamaulipas,Total,28,73.53581568
+2013,Satisfacción con el servicio de educación pública obligatoria,Tamaulipas,Total,28,73.21756613
 2021,Satisfacción con el servicio de educación pública obligatoria,Tamaulipas,Mujeres,28,68.90650423
 2019,Satisfacción con el servicio de educación pública obligatoria,Tamaulipas,Mujeres,28,68.10684985
 2017,Satisfacción con el servicio de educación pública obligatoria,Tamaulipas,Mujeres,28,72.48205564
@@ -434,11 +434,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Tamaulipas,Hombres,28,70.91474617
 2015,Satisfacción con el servicio de educación pública obligatoria,Tamaulipas,Hombres,28,69.32070292
 2013,Satisfacción con el servicio de educación pública obligatoria,Tamaulipas,Hombres,28,73.64965184
-2021,Satisfacción con el servicio de educación pública obligatoria,Tlaxcala,Total a/,29,49.65589102
-2019,Satisfacción con el servicio de educación pública obligatoria,Tlaxcala,Total a/,29,61.71426339
-2017,Satisfacción con el servicio de educación pública obligatoria,Tlaxcala,Total a/,29,56.86861336
-2015,Satisfacción con el servicio de educación pública obligatoria,Tlaxcala,Total a/,29,69.609375
-2013,Satisfacción con el servicio de educación pública obligatoria,Tlaxcala,Total a/,29,71.75294762
+2021,Satisfacción con el servicio de educación pública obligatoria,Tlaxcala,Total,29,49.65589102
+2019,Satisfacción con el servicio de educación pública obligatoria,Tlaxcala,Total,29,61.71426339
+2017,Satisfacción con el servicio de educación pública obligatoria,Tlaxcala,Total,29,56.86861336
+2015,Satisfacción con el servicio de educación pública obligatoria,Tlaxcala,Total,29,69.609375
+2013,Satisfacción con el servicio de educación pública obligatoria,Tlaxcala,Total,29,71.75294762
 2021,Satisfacción con el servicio de educación pública obligatoria,Tlaxcala,Mujeres,29,50.81816765
 2019,Satisfacción con el servicio de educación pública obligatoria,Tlaxcala,Mujeres,29,66.09547203
 2017,Satisfacción con el servicio de educación pública obligatoria,Tlaxcala,Mujeres,29,61.48784025
@@ -449,11 +449,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Tlaxcala,Hombres,29,59.40955666
 2015,Satisfacción con el servicio de educación pública obligatoria,Tlaxcala,Hombres,29,65.88469718
 2013,Satisfacción con el servicio de educación pública obligatoria,Tlaxcala,Hombres,29,67.32389161
-2021,Satisfacción con el servicio de educación pública obligatoria,Veracruz de Ignacio de la Llave,Total a/,30,51.50141293
-2019,Satisfacción con el servicio de educación pública obligatoria,Veracruz de Ignacio de la Llave,Total a/,30,68.15545097
-2017,Satisfacción con el servicio de educación pública obligatoria,Veracruz de Ignacio de la Llave,Total a/,30,68.44940381
-2015,Satisfacción con el servicio de educación pública obligatoria,Veracruz de Ignacio de la Llave,Total a/,30,67.67816277
-2013,Satisfacción con el servicio de educación pública obligatoria,Veracruz de Ignacio de la Llave,Total a/,30,73.10807229
+2021,Satisfacción con el servicio de educación pública obligatoria,Veracruz de Ignacio de la Llave,Total,30,51.50141293
+2019,Satisfacción con el servicio de educación pública obligatoria,Veracruz de Ignacio de la Llave,Total,30,68.15545097
+2017,Satisfacción con el servicio de educación pública obligatoria,Veracruz de Ignacio de la Llave,Total,30,68.44940381
+2015,Satisfacción con el servicio de educación pública obligatoria,Veracruz de Ignacio de la Llave,Total,30,67.67816277
+2013,Satisfacción con el servicio de educación pública obligatoria,Veracruz de Ignacio de la Llave,Total,30,73.10807229
 2021,Satisfacción con el servicio de educación pública obligatoria,Veracruz de Ignacio de la Llave,Mujeres,30,52.64419943
 2019,Satisfacción con el servicio de educación pública obligatoria,Veracruz de Ignacio de la Llave,Mujeres,30,60.906687
 2017,Satisfacción con el servicio de educación pública obligatoria,Veracruz de Ignacio de la Llave,Mujeres,30,60.83671327
@@ -464,11 +464,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Veracruz de Ignacio de la Llave,Hombres,30,64.07612372
 2015,Satisfacción con el servicio de educación pública obligatoria,Veracruz de Ignacio de la Llave,Hombres,30,72.48979532
 2013,Satisfacción con el servicio de educación pública obligatoria,Veracruz de Ignacio de la Llave,Hombres,30,67.52163901
-2021,Satisfacción con el servicio de educación pública obligatoria,Yucatán,Total a/,31,73.22710242
-2019,Satisfacción con el servicio de educación pública obligatoria,Yucatán,Total a/,31,79.18300521
-2017,Satisfacción con el servicio de educación pública obligatoria,Yucatán,Total a/,31,78.52917418
-2015,Satisfacción con el servicio de educación pública obligatoria,Yucatán,Total a/,31,73.30497467
-2013,Satisfacción con el servicio de educación pública obligatoria,Yucatán,Total a/,31,85.53920276
+2021,Satisfacción con el servicio de educación pública obligatoria,Yucatán,Total,31,73.22710242
+2019,Satisfacción con el servicio de educación pública obligatoria,Yucatán,Total,31,79.18300521
+2017,Satisfacción con el servicio de educación pública obligatoria,Yucatán,Total,31,78.52917418
+2015,Satisfacción con el servicio de educación pública obligatoria,Yucatán,Total,31,73.30497467
+2013,Satisfacción con el servicio de educación pública obligatoria,Yucatán,Total,31,85.53920276
 2021,Satisfacción con el servicio de educación pública obligatoria,Yucatán,Mujeres,31,65.54301701
 2019,Satisfacción con el servicio de educación pública obligatoria,Yucatán,Mujeres,31,71.27468261
 2017,Satisfacción con el servicio de educación pública obligatoria,Yucatán,Mujeres,31,77.64600834
@@ -479,11 +479,11 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2017,Satisfacción con el servicio de educación pública obligatoria,Yucatán,Hombres,31,78.10096255
 2015,Satisfacción con el servicio de educación pública obligatoria,Yucatán,Hombres,31,73.30791171
 2013,Satisfacción con el servicio de educación pública obligatoria,Yucatán,Hombres,31,77.78604611
-2021,Satisfacción con el servicio de educación pública obligatoria,Zacatecas,Total a/,32,70.69859934
-2019,Satisfacción con el servicio de educación pública obligatoria,Zacatecas,Total a/,32,60.56163732
-2017,Satisfacción con el servicio de educación pública obligatoria,Zacatecas,Total a/,32,65.48750591
-2015,Satisfacción con el servicio de educación pública obligatoria,Zacatecas,Total a/,32,59.25178021
-2013,Satisfacción con el servicio de educación pública obligatoria,Zacatecas,Total a/,32,76.65716225
+2021,Satisfacción con el servicio de educación pública obligatoria,Zacatecas,Total,32,70.69859934
+2019,Satisfacción con el servicio de educación pública obligatoria,Zacatecas,Total,32,60.56163732
+2017,Satisfacción con el servicio de educación pública obligatoria,Zacatecas,Total,32,65.48750591
+2015,Satisfacción con el servicio de educación pública obligatoria,Zacatecas,Total,32,59.25178021
+2013,Satisfacción con el servicio de educación pública obligatoria,Zacatecas,Total,32,76.65716225
 2021,Satisfacción con el servicio de educación pública obligatoria,Zacatecas,Mujeres,32,64.85590368
 2019,Satisfacción con el servicio de educación pública obligatoria,Zacatecas,Mujeres,32,58.66194508
 2017,Satisfacción con el servicio de educación pública obligatoria,Zacatecas,Mujeres,32,62.13454686
@@ -988,4 +988,4 @@ Year,Series,Entidad federativa,Sexo,GeoCode,Value
 2019,Satisfacción con el servicio de educación pública universitaria,Zacatecas,Hombres,32,79.53954067
 2017,Satisfacción con el servicio de educación pública universitaria,Zacatecas,Hombres,32,81.08738226
 2015,Satisfacción con el servicio de educación pública universitaria,Zacatecas,Hombres,32,91.76687569
-2013,Satisfacción con el servicio de educación pública universitaria,Zacatecas,Hombres,32,71.02399917
+2013,Satisfacción con el servicio de educación pública universitaria,Zacatecas,Hombres,32,71.02399918
