@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
@@ -16,21 +16,21 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Ámbito",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "C",
+                "Total",
+                "Urbano",
+                "Rural",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Ámbito"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

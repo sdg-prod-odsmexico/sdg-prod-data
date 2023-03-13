@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
@@ -15,20 +15,20 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Ámbito",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "C",
+                "Total",
+                "Urbano",
+                "Rural",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
